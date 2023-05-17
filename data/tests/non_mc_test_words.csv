@@ -1,0 +1,1323 @@
+Reference,Item number,Type,Word
+Apel et al. (2012),1,Input,farm
+Apel et al. (2012),1,Target,farmer
+Apel et al. (2012),2,Input,ill
+Apel et al. (2012),2,Target,illness
+Apel et al. (2012),3,Input,quick
+Apel et al. (2012),3,Target,quickly
+Apel et al. (2012),4,Input,nerve
+Apel et al. (2012),4,Target,nervous
+Apel et al. (2012),5,Input,five
+Apel et al. (2012),5,Target,fifth
+Apel et al. (2012),6,Input,swim
+Apel et al. (2012),6,Target,swimming
+Apel et al. (2012),7,Input,victory
+Apel et al. (2012),7,Target,victorious
+Apel et al. (2012),8,Input,music
+Apel et al. (2012),8,Target,musician
+Apel et al. (2012),9,Input,accept
+Apel et al. (2012),9,Target,acceptable
+Apel et al. (2012),10,Input,begin
+Apel et al. (2012),10,Target,beginning
+Apel et al. (2012),11,Input,long
+Apel et al. (2012),11,Target,length
+Apel et al. (2012),12,Input,friend
+Apel et al. (2012),12,Target,friendly
+Apel et al. (2012),13,Input,warm
+Apel et al. (2012),13,Target,warmth
+Apel et al. (2012),14,Input,teach
+Apel et al. (2012),14,Target,teacher
+Apel et al. (2012),15,Input,permit
+Apel et al. (2012),15,Target,permission
+Apel et al. (2012),16,Input,appear
+Apel et al. (2012),16,Target,appearance
+Apel et al. (2012),17,Input,remark
+Apel et al. (2012),17,Target,remarkable
+Apel et al. (2012),18,Input,protect
+Apel et al. (2012),18,Target,protection
+Apel et al. (2012),19,Input,revise
+Apel et al. (2012),19,Target,revision
+Apel et al. (2012),20,Input,deep
+Apel et al. (2012),20,Target,depth
+Apel et al. (2012),21,Input,active
+Apel et al. (2012),21,Target,activity
+Apel et al. (2012),22,Input,wash
+Apel et al. (2012),22,Target,washer
+Carlisle (2000),25,Input,warm
+Carlisle (2000),25,Target,warmth
+Carlisle (2000),26,Input,teach
+Carlisle (2000),26,Target,teacher
+Carlisle (2000),27,Input,permit
+Carlisle (2000),27,Target,permission
+Carlisle (2000),28,Input,profit
+Carlisle (2000),28,Target,profitable
+Carlisle (2000),29,Input,appear
+Carlisle (2000),29,Target,appearance
+Carlisle (2000),30,Input,express
+Carlisle (2000),30,Target,expression
+Carlisle (2000),31,Input,four
+Carlisle (2000),31,Target,fourth
+Carlisle (2000),32,Input,remark
+Carlisle (2000),32,Target,remarkable
+Carlisle (2000),33,Input,protect
+Carlisle (2000),33,Target,protection
+Carlisle (2000),34,Input,perform
+Carlisle (2000),34,Target,performance
+Carlisle (2000),35,Input,expand
+Carlisle (2000),35,Target,expansion
+Carlisle (2000),36,Input,revise
+Carlisle (2000),36,Target,revision
+Carlisle (2000),37,Input,reason
+Carlisle (2000),37,Target,reasonable
+Carlisle (2000),38,Input,major
+Carlisle (2000),38,Target,majority
+Carlisle (2000),39,Input,deep
+Carlisle (2000),39,Target,depth
+Carlisle (2000),40,Input,equal
+Carlisle (2000),40,Target,equality
+Carlisle (2000),41,Input,long
+Carlisle (2000),41,Target,length
+Carlisle (2000),42,Input,adventure
+Carlisle (2000),42,Target,adventurous
+Carlisle (2000),43,Input,absorb
+Carlisle (2000),43,Target,absorption
+Carlisle (2000),44,Input,active
+Carlisle (2000),44,Target,activity
+Carlisle (2000),45,Input,swim
+Carlisle (2000),45,Target,swimmer
+Carlisle (2000),46,Input,human
+Carlisle (2000),46,Target,humanity
+Carlisle (2000),47,Input,wash
+Carlisle (2000),47,Target,washer
+Carlisle (2000),48,Input,humor
+Carlisle (2000),48,Target,humorous
+Carlisle (2000),49,Input,assist
+Carlisle (2000),49,Target,assistance
+Carlisle (2000),50,Input,mystery
+Carlisle (2000),50,Target,mysterious
+Carlisle (2000),51,Input,produce
+Carlisle (2000),51,Target,production
+Carlisle (2000),52,Input,glory
+Carlisle (2000),52,Target,glorious
+Carlisle (2000),53,Input,driver
+Carlisle (2000),53,Target,drive
+Carlisle (2000),54,Input,improvement
+Carlisle (2000),54,Target,improve
+Carlisle (2000),55,Input,growth
+Carlisle (2000),55,Target,grow
+Carlisle (2000),56,Input,dryer
+Carlisle (2000),56,Target,dry
+Carlisle (2000),57,Input,variable
+Carlisle (2000),57,Target,vary
+Carlisle (2000),58,Input,width
+Carlisle (2000),58,Target,wide
+Carlisle (2000),59,Input,density
+Carlisle (2000),59,Target,dense
+Carlisle (2000),60,Input,discussion
+Carlisle (2000),60,Target,discuss
+Carlisle (2000),61,Input,famous
+Carlisle (2000),61,Target,fame
+Carlisle (2000),62,Input,description
+Carlisle (2000),62,Target,describe
+Carlisle (2000),63,Input,fifth
+Carlisle (2000),63,Target,five
+Carlisle (2000),64,Input,election
+Carlisle (2000),64,Target,elect
+Carlisle (2000),65,Input,strength
+Carlisle (2000),65,Target,strong
+Carlisle (2000),66,Input,decision
+Carlisle (2000),66,Target,decide
+Carlisle (2000),67,Input,popularity
+Carlisle (2000),67,Target,popular
+Carlisle (2000),68,Input,runner
+Carlisle (2000),68,Target,run
+Carlisle (2000),69,Input,publicity
+Carlisle (2000),69,Target,public
+Carlisle (2000),70,Input,difference
+Carlisle (2000),70,Target,differ
+Carlisle (2000),71,Input,originality
+Carlisle (2000),71,Target,original
+Carlisle (2000),72,Input,agreeable
+Carlisle (2000),72,Target,agree
+Carlisle (2000),73,Input,courageous
+Carlisle (2000),73,Target,courage
+Carlisle (2000),74,Input,admission
+Carlisle (2000),74,Target,admit
+Carlisle (2000),75,Input,dangerous
+Carlisle (2000),75,Target,danger
+Carlisle (2000),76,Input,reduction
+Carlisle (2000),76,Target,reduce
+Carlisle (2000),77,Input,baker
+Carlisle (2000),77,Target,bake
+Carlisle (2000),78,Input,division
+Carlisle (2000),78,Target,divide
+Carlisle (2000),79,Input,guidance
+Carlisle (2000),79,Target,guide
+Carlisle (2000),80,Input,continuous
+Carlisle (2000),80,Target,continue
+Carlisle (2000),81,Input,reliable
+Carlisle (2000),81,Target,rely
+Carlisle (2000),82,Input,acceptance
+Carlisle (2000),82,Target,accept
+Kieffer & Lesaux (2008),85,Input,growth
+Kieffer & Lesaux (2008),85,Target,grow
+Kieffer & Lesaux (2008),86,Input,dryer
+Kieffer & Lesaux (2008),86,Target,dry
+Kieffer & Lesaux (2008),87,Input,width
+Kieffer & Lesaux (2008),87,Target,wide
+Kieffer & Lesaux (2008),88,Input,density
+Kieffer & Lesaux (2008),88,Target,dense
+Kieffer & Lesaux (2008),89,Input,discussion
+Kieffer & Lesaux (2008),89,Target,discuss
+Kieffer & Lesaux (2008),90,Input,famous
+Kieffer & Lesaux (2008),90,Target,fame
+Kieffer & Lesaux (2008),91,Input,fifth
+Kieffer & Lesaux (2008),91,Target,five
+Kieffer & Lesaux (2008),92,Input,strength
+Kieffer & Lesaux (2008),92,Target,strong
+Kieffer & Lesaux (2008),93,Input,decision
+Kieffer & Lesaux (2008),93,Target,decide
+Kieffer & Lesaux (2008),94,Input,popularity
+Kieffer & Lesaux (2008),94,Target,popular
+Kieffer & Lesaux (2008),95,Input,runner
+Kieffer & Lesaux (2008),95,Target,run
+Kieffer & Lesaux (2008),96,Input,availability
+Kieffer & Lesaux (2008),96,Target,available
+Kieffer & Lesaux (2008),97,Input,glorious
+Kieffer & Lesaux (2008),97,Target,glory
+Kieffer & Lesaux (2008),98,Input,originality
+Kieffer & Lesaux (2008),98,Target,original
+Kieffer & Lesaux (2008),99,Input,courageous
+Kieffer & Lesaux (2008),99,Target,courage
+Kieffer & Lesaux (2008),100,Input,admission
+Kieffer & Lesaux (2008),100,Target,admit
+Kieffer & Lesaux (2008),101,Input,baker
+Kieffer & Lesaux (2008),101,Target,bake
+Kieffer & Lesaux (2008),102,Input,division
+Kieffer & Lesaux (2008),102,Target,divide
+Kieffer & Lesaux (2008),103,Input,fourth
+Kieffer & Lesaux (2008),103,Target,four
+Kieffer & Lesaux (2008),104,Input,continuous
+Kieffer & Lesaux (2008),104,Target,continue
+Kieffer & Lesaux (2008),105,Input,swimmer
+Kieffer & Lesaux (2008),105,Target,swim
+Kieffer & Lesaux (2008),106,Input,furious
+Kieffer & Lesaux (2008),106,Target,fury
+Kieffer & Lesaux (2008),107,Input,teacher
+Kieffer & Lesaux (2008),107,Target,teach
+Kieffer & Lesaux (2008),108,Input,activity
+Kieffer & Lesaux (2008),108,Target,active
+Kieffer & Lesaux (2008),109,Input,possession
+Kieffer & Lesaux (2008),109,Target,possess
+Kruk & Bergman (2013),110,Input,needed
+Kruk & Bergman (2013),110,Target,need
+Kruk & Bergman (2013),111,Input,owner
+Kruk & Bergman (2013),111,Target,own
+Kruk & Bergman (2013),112,Input,decision
+Kruk & Bergman (2013),112,Target,decide
+Kruk & Bergman (2013),113,Input,flowers
+Kruk & Bergman (2013),113,Target,flower
+Kruk & Bergman (2013),114,Input,cutting
+Kruk & Bergman (2013),114,Target,cut
+Kruk & Bergman (2013),115,Input,running
+Kruk & Bergman (2013),115,Target,run
+Kruk & Bergman (2013),116,Input,walked
+Kruk & Bergman (2013),116,Target,walk
+Kruk & Bergman (2013),117,Input,friends
+Kruk & Bergman (2013),117,Target,friend
+Kruk & Bergman (2013),118,Input,wanted
+Kruk & Bergman (2013),118,Target,want
+Kruk & Bergman (2013),119,Input,glasses
+Kruk & Bergman (2013),119,Target,glass
+Kruk & Bergman (2013),120,Input,popularity
+Kruk & Bergman (2013),120,Target,popular
+Kruk & Bergman (2013),121,Input,dirty
+Kruk & Bergman (2013),121,Target,dirt
+Kruk & Bergman (2013),122,Input,reader
+Kruk & Bergman (2013),122,Target,read
+Kruk & Bergman (2013),123,Input,babies
+Kruk & Bergman (2013),123,Target,baby
+Kruk & Bergman (2013),124,Input,books
+Kruk & Bergman (2013),124,Target,book
+Kruk & Bergman (2013),125,Input,acceptance
+Kruk & Bergman (2013),125,Target,accept
+Kruk & Bergman (2013),126,Input,growth
+Kruk & Bergman (2013),126,Target,grow
+Kruk & Bergman (2013),127,Input,dryer
+Kruk & Bergman (2013),127,Target,dry
+Kruk & Bergman (2013),128,Input,density
+Kruk & Bergman (2013),128,Target,dense
+Kruk & Bergman (2013),129,Input,agreement
+Kruk & Bergman (2013),129,Target,agree
+Kruk & Bergman (2013),130,Input,believe
+Kruk & Bergman (2013),130,Target,belief
+Kruk & Bergman (2013),131,Input,carried
+Kruk & Bergman (2013),131,Target,carry
+Kruk & Bergman (2013),132,Input,strength
+Kruk & Bergman (2013),132,Target,strong
+Kruk & Bergman (2013),133,Input,fifth
+Kruk & Bergman (2013),133,Target,five
+Kruk & Bergman (2013),134,Input,leaves
+Kruk & Bergman (2013),134,Target,leaf
+Kruk & Bergman (2013),135,Input,discussion
+Kruk & Bergman (2013),135,Target,discuss
+Kruk & Bergman (2013),136,Input,description
+Kruk & Bergman (2013),136,Target,describe
+Kruk & Bergman (2013),137,Input,enter
+Kruk & Bergman (2013),137,Target,entered
+Kruk & Bergman (2013),138,Input,sing
+Kruk & Bergman (2013),138,Target,singer
+Kruk & Bergman (2013),139,Input,try
+Kruk & Bergman (2013),139,Target,tried
+Kruk & Bergman (2013),140,Input,tree
+Kruk & Bergman (2013),140,Target,trees
+Kruk & Bergman (2013),141,Input,stop
+Kruk & Bergman (2013),141,Target,stopped
+Kruk & Bergman (2013),142,Input,egg
+Kruk & Bergman (2013),142,Target,eggs
+Kruk & Bergman (2013),143,Input,perform
+Kruk & Bergman (2013),143,Target,performance
+Kruk & Bergman (2013),144,Input,sun
+Kruk & Bergman (2013),144,Target,sunny
+Kruk & Bergman (2013),145,Input,car
+Kruk & Bergman (2013),145,Target,cars
+Kruk & Bergman (2013),146,Input,ask
+Kruk & Bergman (2013),146,Target,asked
+Kruk & Bergman (2013),147,Input,warm
+Kruk & Bergman (2013),147,Target,warmth
+Kruk & Bergman (2013),148,Input,fish
+Kruk & Bergman (2013),148,Target,fishing
+Kruk & Bergman (2013),149,Input,wish
+Kruk & Bergman (2013),149,Target,wishes
+Kruk & Bergman (2013),150,Input,come
+Kruk & Bergman (2013),150,Target,coming
+Kruk & Bergman (2013),151,Input,assist
+Kruk & Bergman (2013),151,Target,assistance
+Kruk & Bergman (2013),152,Input,human
+Kruk & Bergman (2013),152,Target,humanity
+Kruk & Bergman (2013),153,Input,teach
+Kruk & Bergman (2013),153,Target,teacher
+Kruk & Bergman (2013),154,Input,profit
+Kruk & Bergman (2013),154,Target,profitable
+Kruk & Bergman (2013),155,Input,appear
+Kruk & Bergman (2013),155,Target,appearance
+Kruk & Bergman (2013),156,Input,body
+Kruk & Bergman (2013),156,Target,bodies
+Kruk & Bergman (2013),157,Input,deep
+Kruk & Bergman (2013),157,Target,depth
+Kruk & Bergman (2013),158,Input,life
+Kruk & Bergman (2013),158,Target,live
+Kruk & Bergman (2013),159,Input,dead
+Kruk & Bergman (2013),159,Target,death
+Kruk & Bergman (2013),160,Input,permit
+Kruk & Bergman (2013),160,Target,permission
+Kruk & Bergman (2013),161,Input,shelf
+Kruk & Bergman (2013),161,Target,shelves
+Kruk & Bergman (2013),162,Input,protect
+Kruk & Bergman (2013),162,Target,protection
+Kruk & Bergman (2013),163,Input,active
+Kruk & Bergman (2013),163,Target,activity
+Lam (2009),167,Input,growth
+Lam (2009),167,Target,grow
+Lam (2009),168,Input,density
+Lam (2009),168,Target,dense
+Lam (2009),169,Input,description
+Lam (2009),169,Target,describe
+Lam (2009),170,Input,runner
+Lam (2009),170,Target,run
+Lam (2009),171,Input,jacket
+Lam (2009),171,Target,jackets
+Lam (2009),172,Input,skip
+Lam (2009),172,Target,skipped
+Lam (2009),173,Input,music
+Lam (2009),173,Target,musician
+Lam (2009),174,Input,slow
+Lam (2009),174,Target,slowest
+Lam (2009),175,Input,science
+Lam (2009),175,Target,scientist
+Lam (2009),176,Input,four
+Lam (2009),176,Target,fourth
+Lam (2009),177,Input,dance
+Lam (2009),177,Target,dancer
+Lam (2009),178,Input,art
+Lam (2009),178,Target,artist
+Lam (2009),179,Input,cloud
+Lam (2009),179,Target,cloudy
+Lam (2009),180,Input,paint
+Lam (2009),180,Target,painter
+Lam (2009),181,Input,curl
+Lam (2009),181,Target,curly
+Lam (2009),182,Input,calm
+Lam (2009),182,Target,calmly
+Lam (2009),183,Input,magic
+Lam (2009),183,Target,musician
+Lam (2009),184,Input,strong
+Lam (2009),184,Target,strength
+Lam (2009),185,Input,discuss
+Lam (2009),185,Target,discussion
+Lam (2009),186,Input,appear
+Lam (2009),186,Target,appearance
+Lam (2009),187,Input,remark
+Lam (2009),187,Target,remarkable
+Lam (2009),188,Input,major
+Lam (2009),188,Target,majority
+Lam (2009),189,Input,humour
+Lam (2009),189,Target,humorous
+Lam (2009),190,Input,mystery
+Lam (2009),190,Target,mysterious
+Deacon et al. (2013),192,Input,plugs
+Deacon et al. (2013),192,Target,plugged
+Deacon et al. (2013),194,Input,chased
+Deacon et al. (2013),194,Target,chases
+Deacon et al. (2013),196,Input,slammed
+Deacon et al. (2013),196,Target,slams
+Deacon et al. (2013),198,Input,feeds
+Deacon et al. (2013),198,Target,fed
+Deacon et al. (2013),200,Input,crept
+Deacon et al. (2013),200,Target,creeps
+Deacon et al. (2013),202,Input,sells
+Deacon et al. (2013),202,Target,sold
+Deacon et al. (2013),204,Input,ran
+Deacon et al. (2013),204,Target,runs
+Deacon et al. (2013),206,Input,opens
+Deacon et al. (2013),206,Target,opened
+Deacon et al. (2013),208,Input,strong
+Deacon et al. (2013),208,Target,strongest
+Deacon et al. (2013),210,Input,chill
+Deacon et al. (2013),210,Target,chilly
+Deacon et al. (2013),212,Input,write
+Deacon et al. (2013),212,Target,writer
+Deacon et al. (2013),214,Input,curl
+Deacon et al. (2013),214,Target,curly
+Deacon et al. (2013),216,Input,store
+Deacon et al. (2013),216,Target,shortage
+Deacon et al. (2013),218,Input,bite
+Deacon et al. (2013),218,Target,biting
+Deacon et al. (2013),220,Input,goose
+Deacon et al. (2013),220,Target,geese
+Deacon et al. (2013),222,Input,obedient
+Deacon et al. (2013),222,Target,obedience
+Deacon et al. (2013),224,Input,strong
+Deacon et al. (2013),224,Target,strength
+Deacon et al. (2013),226,Input,clean
+Deacon et al. (2013),226,Target,cleaner
+Deacon et al. (2013),228,Input,deep
+Deacon et al. (2013),228,Target,depth
+Deacon et al. (2013),230,Input,mouse
+Deacon et al. (2013),230,Target,mice
+Deacon et al. (2013),232,Input,scratch
+Deacon et al. (2013),232,Target,scratched
+Deacon et al. (2013),234,Input,true
+Deacon et al. (2013),234,Target,truth
+Deacon et al. (2013),236,Input,farm
+Deacon et al. (2013),236,Target,farmer
+Deacon et al. (2013),238,Input,mild
+Deacon et al. (2013),238,Target,mildly
+Deacon et al. (2013),240,Input,sing
+Deacon et al. (2013),240,Target,sang
+Deacon et al. (2013),242,Input,science
+Deacon et al. (2013),242,Target,scientist
+Deacon et al. (2013),244,Input,shrink
+Deacon et al. (2013),244,Target,shrinkage
+Deacon et al. (2013),246,Input,bold
+Deacon et al. (2013),246,Target,boldly
+Deacon et al. (2013),248,Input,fly
+Deacon et al. (2013),248,Target,flying
+Deacon (2012),250,Input,plugs
+Deacon (2012),250,Target,plugged
+Deacon (2012),252,Input,chased
+Deacon (2012),252,Target,chases
+Deacon (2012),254,Input,slammed
+Deacon (2012),254,Target,slams
+Deacon (2012),256,Input,feeds
+Deacon (2012),256,Target,fed
+Deacon (2012),258,Input,crept
+Deacon (2012),258,Target,creeps
+Deacon (2012),260,Input,sells
+Deacon (2012),260,Target,sold
+Deacon (2012),262,Input,ran
+Deacon (2012),262,Target,runs
+Deacon (2012),264,Input,opens
+Deacon (2012),264,Target,opened
+Deacon et al. (2007),266,Input,shakes
+Deacon et al. (2007),266,Target,shook
+Deacon et al. (2007),268,Input,keeping
+Deacon et al. (2007),268,Target,kept
+Deacon et al. (2007),270,Input,fed
+Deacon et al. (2007),270,Target,feeds
+Deacon et al. (2007),272,Input,left
+Deacon et al. (2007),272,Target,leaves
+Deacon et al. (2007),274,Input,laughed
+Deacon et al. (2007),274,Target,laughs
+Deacon et al. (2007),276,Input,slams
+Deacon et al. (2007),276,Target,slammed
+Deacon et al. (2007),278,Input,runs
+Deacon et al. (2007),278,Target,ran
+Deacon et al. (2014),288,Input,strong
+Deacon et al. (2014),288,Target,strongest
+Deacon et al. (2014),290,Input,chill
+Deacon et al. (2014),290,Target,chilly
+Deacon et al. (2014),292,Input,write
+Deacon et al. (2014),292,Target,writer
+Deacon et al. (2014),294,Input,curl
+Deacon et al. (2014),294,Target,curly
+Deacon et al. (2014),296,Input,store
+Deacon et al. (2014),296,Target,storage
+Deacon et al. (2014),298,Input,bite
+Deacon et al. (2014),298,Target,biting
+Deacon et al. (2014),300,Input,goose
+Deacon et al. (2014),300,Target,geese
+Deacon et al. (2014),302,Input,obedient
+Deacon et al. (2014),302,Target,obedience
+Deacon et al. (2014),304,Input,strong
+Deacon et al. (2014),304,Target,strength
+Deacon et al. (2014),306,Input,clean
+Deacon et al. (2014),306,Target,cleaner
+Deacon et al. (2014),308,Input,deep
+Deacon et al. (2014),308,Target,depth
+Deacon et al. (2014),310,Input,mouse
+Deacon et al. (2014),310,Target,mice
+Deacon et al. (2014),312,Input,scratch
+Deacon et al. (2014),312,Target,scratched
+Deacon et al. (2014),314,Input,true
+Deacon et al. (2014),314,Target,truth
+Deacon et al. (2014),316,Input,farm
+Deacon et al. (2014),316,Target,farmer
+Deacon et al. (2014),318,Input,mild
+Deacon et al. (2014),318,Target,mildly
+Deacon et al. (2014),320,Input,sing
+Deacon et al. (2014),320,Target,sang
+Deacon et al. (2014),322,Input,science
+Deacon et al. (2014),322,Target,scientist
+Deacon et al. (2014),324,Input,shrink
+Deacon et al. (2014),324,Target,shrinkage
+Deacon et al. (2014),326,Input,bold
+Deacon et al. (2014),326,Target,boldly
+Deacon et al. (2014),328,Input,fly
+Deacon et al. (2014),328,Target,flying
+Ku & Anderson (2003),330,Input,grow
+Ku & Anderson (2003),330,Target,growth
+Ku & Anderson (2003),331,Input,dance
+Ku & Anderson (2003),331,Target,dancer
+Ku & Anderson (2003),332,Input,art
+Ku & Anderson (2003),332,Target,artist
+Ku & Anderson (2003),333,Input,baker
+Ku & Anderson (2003),333,Target,bakery
+Ku & Anderson (2003),334,Input,dirt
+Ku & Anderson (2003),334,Target,dirty
+Ku & Anderson (2003),335,Input,after
+Ku & Anderson (2003),335,Target,afternoon
+Ku & Anderson (2003),336,Input,man
+Ku & Anderson (2003),336,Target,many
+Ku & Anderson (2003),337,Input,person
+Ku & Anderson (2003),337,Target,personal
+Ku & Anderson (2003),338,Input,pain
+Ku & Anderson (2003),338,Target,painful
+Ku & Anderson (2003),339,Input,fire
+Ku & Anderson (2003),339,Target,fireplace
+Levesque et al. (2019),340,Input,agree
+Levesque et al. (2019),340,Target,agreeable
+Levesque et al. (2019),341,Input,depend
+Levesque et al. (2019),341,Target,dependable
+Levesque et al. (2019),342,Input,fear
+Levesque et al. (2019),342,Target,fearless
+Levesque et al. (2019),343,Input,forget
+Levesque et al. (2019),343,Target,forgetful
+Levesque et al. (2019),344,Input,knowledge
+Levesque et al. (2019),344,Target,knowledgeable
+Levesque et al. (2019),345,Input,local
+Levesque et al. (2019),345,Target,locally
+Levesque et al. (2019),346,Input,loud
+Levesque et al. (2019),346,Target,loudness
+Levesque et al. (2019),347,Input,measure
+Levesque et al. (2019),347,Target,measurable
+Levesque et al. (2019),348,Input,purpose
+Levesque et al. (2019),348,Target,purposeful
+Levesque et al. (2019),349,Input,question
+Levesque et al. (2019),349,Target,questionable
+Levesque et al. (2019),350,Input,respect
+Levesque et al. (2019),350,Target,respectful
+Levesque et al. (2019),351,Input,rich
+Levesque et al. (2019),351,Target,richness
+Levesque et al. (2019),352,Input,sense
+Levesque et al. (2019),352,Target,senseless
+Levesque et al. (2019),353,Input,serious
+Levesque et al. (2019),353,Target,seriousness
+Levesque et al. (2019),354,Input,slow
+Levesque et al. (2019),354,Target,slowness
+Levesque et al. (2019),355,Input,smooth
+Levesque et al. (2019),355,Target,smoothness
+Levesque et al. (2019),356,Input,soft
+Levesque et al. (2019),356,Target,softness
+Levesque et al. (2019),357,Input,speech
+Levesque et al. (2019),357,Target,speechless
+Levesque et al. (2019),358,Input,taste
+Levesque et al. (2019),358,Target,tasteless
+Levesque et al. (2019),359,Input,weight
+Levesque et al. (2019),359,Target,weightless
+Levesque et al. (2019),360,Input,align
+Levesque et al. (2019),360,Target,alignment
+Levesque et al. (2019),361,Input,appraise
+Levesque et al. (2019),361,Target,appraisal
+Levesque et al. (2019),362,Input,cease
+Levesque et al. (2019),362,Target,ceaseless
+Levesque et al. (2019),363,Input,conceive
+Levesque et al. (2019),363,Target,conceivable
+Levesque et al. (2019),364,Input,confine
+Levesque et al. (2019),364,Target,confinement
+Levesque et al. (2019),365,Input,coward
+Levesque et al. (2019),365,Target,cowardly
+Levesque et al. (2019),366,Input,dispose
+Levesque et al. (2019),366,Target,disposable
+Levesque et al. (2019),367,Input,endorse
+Levesque et al. (2019),367,Target,endorsement
+Levesque et al. (2019),368,Input,envy
+Levesque et al. (2019),368,Target,envious
+Levesque et al. (2019),369,Input,eternal
+Levesque et al. (2019),369,Target,eternally
+Levesque et al. (2019),370,Input,forgive
+Levesque et al. (2019),370,Target,forgiveness
+Levesque et al. (2019),371,Input,fright
+Levesque et al. (2019),371,Target,frightful
+Levesque et al. (2019),372,Input,hazard
+Levesque et al. (2019),372,Target,hazardous
+Levesque et al. (2019),373,Input,install
+Levesque et al. (2019),373,Target,installment
+Levesque et al. (2019),374,Input,mourn
+Levesque et al. (2019),374,Target,mournful
+Levesque et al. (2019),375,Input,nourish
+Levesque et al. (2019),375,Target,nourishment
+Levesque et al. (2019),376,Input,rehearse
+Levesque et al. (2019),376,Target,rehearsal
+Levesque et al. (2019),377,Input,resent
+Levesque et al. (2019),377,Target,resentful
+Levesque et al. (2019),378,Input,stain
+Levesque et al. (2019),378,Target,stainless
+Levesque et al. (2019),379,Input,timid
+Levesque et al. (2019),379,Target,timidly
+Gómez (2009),380,Input,music
+Gómez (2009),380,Target,musician
+Gómez (2009),381,Input,popular
+Gómez (2009),381,Target,popularity
+Gómez (2009),382,Input,growth
+Gómez (2009),382,Target,grow
+Gómez (2009),383,Input,slow
+Gómez (2009),383,Target,slowest
+Gómez (2009),384,Input,science
+Gómez (2009),384,Target,scientist
+Gómez (2009),385,Input,four
+Gómez (2009),385,Target,fourth
+Gómez (2009),386,Input,local
+Gómez (2009),386,Target,locality
+Gómez (2009),387,Input,produce
+Gómez (2009),387,Target,production
+Gómez (2009),388,Input,vary
+Gómez (2009),388,Target,varied
+Gómez (2009),389,Input,wide
+Gómez (2009),389,Target,width
+Gómez (2009),390,Input,assist
+Gómez (2009),390,Target,assistance
+Gómez (2009),391,Input,calm
+Gómez (2009),391,Target,calmly
+Gómez (2009),392,Input,magic
+Gómez (2009),392,Target,magician
+Gómez (2009),393,Input,strong
+Gómez (2009),393,Target,strength
+Gómez (2009),394,Input,discuss
+Gómez (2009),394,Target,discussion
+Gómez (2009),395,Input,appear
+Gómez (2009),395,Target,appearance
+Gómez (2009),396,Input,remark
+Gómez (2009),396,Target,remarkable
+Gómez (2009),397,Input,major
+Gómez (2009),397,Target,majority
+Gómez (2009),398,Input,density
+Gómez (2009),398,Target,dense
+Gómez (2009),399,Input,mystery
+Gómez (2009),399,Target,mysterious
+Gómez (2009),400,Input,permit
+Gómez (2009),400,Target,permission
+Gómez (2009),401,Input,jacket
+Gómez (2009),401,Target,jackets
+Gómez (2009),402,Input,human
+Gómez (2009),402,Target,humanity
+Gómez (2009),403,Input,skip
+Gómez (2009),403,Target,skipped
+Gómez (2009),404,Input,description
+Gómez (2009),404,Target,describe
+Gómez (2009),405,Input,runner
+Gómez (2009),405,Target,run
+Gómez (2009),406,Input,cloud
+Gómez (2009),406,Target,cloudy
+McCutchen & Logan (2011),407,Input,four
+McCutchen & Logan (2011),407,Target,fourth
+McCutchen & Logan (2011),408,Input,ill
+McCutchen & Logan (2011),408,Target,illness
+McCutchen & Logan (2011),409,Input,allow
+McCutchen & Logan (2011),409,Target,allowance
+McCutchen & Logan (2011),410,Input,strong
+McCutchen & Logan (2011),410,Target,strength
+McCutchen & Logan (2011),411,Input,art
+McCutchen & Logan (2011),411,Target,artist
+McCutchen & Logan (2011),412,Input,quick
+McCutchen & Logan (2011),412,Target,quickly
+McCutchen & Logan (2011),413,Input,victory
+McCutchen & Logan (2011),413,Target,victorious
+McCutchen & Logan (2011),414,Input,assume
+McCutchen & Logan (2011),414,Target,assumption
+McCutchen & Logan (2011),415,Input,music
+McCutchen & Logan (2011),415,Target,musician
+McCutchen & Logan (2011),416,Input,care
+McCutchen & Logan (2011),416,Target,careful
+McCutchen & Logan (2011),417,Input,sad
+McCutchen & Logan (2011),417,Target,sadness
+McCutchen & Logan (2011),418,Input,decide
+McCutchen & Logan (2011),418,Target,decision
+McCutchen & Logan (2011),419,Input,swim
+McCutchen & Logan (2011),419,Target,swimmer
+McCutchen & Logan (2011),420,Input,examine
+McCutchen & Logan (2011),420,Target,examination
+McCutchen & Logan (2011),421,Input,nerve
+McCutchen & Logan (2011),421,Target,nervous
+McCutchen & Logan (2011),422,Input,trick
+McCutchen & Logan (2011),422,Target,tricky
+McCutchen & Logan (2011),423,Input,five
+McCutchen & Logan (2011),423,Target,fifth
+McCutchen & Logan (2011),424,Input,absent
+McCutchen & Logan (2011),424,Target,absence
+McCutchen & Logan (2011),425,Input,win
+McCutchen & Logan (2011),425,Target,winner
+McCutchen & Logan (2011),426,Input,distant
+McCutchen & Logan (2011),426,Target,distance
+McCutchen & Logan (2011),427,Input,science
+McCutchen & Logan (2011),427,Target,scientist
+McCutchen & Logan (2011),428,Input,deep
+McCutchen & Logan (2011),428,Target,depth
+McCutchen & Logan (2011),429,Input,pain
+McCutchen & Logan (2011),429,Target,painful
+McCutchen & Logan (2011),430,Input,think
+McCutchen & Logan (2011),430,Target,thought
+McCutchen & Logan (2011),431,Input,accept
+McCutchen & Logan (2011),431,Target,acceptable
+McCutchen & Logan (2011),432,Input,comfort
+McCutchen & Logan (2011),432,Target,comfortable
+McCutchen & Logan (2011),433,Input,sign
+McCutchen & Logan (2011),433,Target,signature
+McCutchen & Logan (2011),434,Input,long
+McCutchen & Logan (2011),434,Target,length
+McCutchen & Logan (2011),435,Input,know
+McCutchen & Logan (2011),435,Target,knowledge
+McCutchen & Logan (2011),436,Input,excel
+McCutchen & Logan (2011),436,Target,excellent
+Roth (2007),437,Input,walk
+Roth (2007),437,Target,walked
+Roth (2007),438,Input,sneaker
+Roth (2007),438,Target,sneakers
+Roth (2007),439,Input,low
+Roth (2007),439,Target,lower
+Roth (2007),440,Input,stood
+Roth (2007),440,Target,stand
+Roth (2007),441,Input,lose
+Roth (2007),441,Target,lost
+Roth (2007),442,Input,say
+Roth (2007),442,Target,said
+Roth (2007),443,Input,child
+Roth (2007),443,Target,children
+Roth (2007),444,Input,kept
+Roth (2007),444,Target,keep
+Roth (2007),445,Input,taller
+Roth (2007),445,Target,tall
+Roth (2007),446,Input,person
+Roth (2007),446,Target,people
+Roth (2007),447,Input,fun
+Roth (2007),447,Target,funny
+Roth (2007),448,Input,bake
+Roth (2007),448,Target,baker
+Roth (2007),449,Input,sun
+Roth (2007),449,Target,sunny
+Roth (2007),450,Input,work
+Roth (2007),450,Target,worker
+Roth (2007),451,Input,deep
+Roth (2007),451,Target,depth
+Roth (2007),452,Input,action
+Roth (2007),452,Target,act
+Roth (2007),453,Input,art
+Roth (2007),453,Target,artist
+Roth (2007),454,Input,wide
+Roth (2007),454,Target,width
+Roth (2007),455,Input,strength
+Roth (2007),455,Target,strong
+Roth (2007),456,Input,music
+Roth (2007),456,Target,musician
+McCutchen et al. (2009),457,Input,four
+McCutchen et al. (2009),457,Target,fourth
+McCutchen et al. (2009),458,Input,ill
+McCutchen et al. (2009),458,Target,illness
+McCutchen et al. (2009),459,Input,allow
+McCutchen et al. (2009),459,Target,allowance
+McCutchen et al. (2009),460,Input,strong
+McCutchen et al. (2009),460,Target,strength
+McCutchen et al. (2009),461,Input,art
+McCutchen et al. (2009),461,Target,artist
+McCutchen et al. (2009),462,Input,quick
+McCutchen et al. (2009),462,Target,quickly
+McCutchen et al. (2009),463,Input,victory
+McCutchen et al. (2009),463,Target,victorious
+McCutchen et al. (2009),464,Input,assume
+McCutchen et al. (2009),464,Target,assumption
+McCutchen et al. (2009),465,Input,music
+McCutchen et al. (2009),465,Target,musician
+McCutchen et al. (2009),466,Input,care
+McCutchen et al. (2009),466,Target,careful
+McCutchen et al. (2009),467,Input,sad
+McCutchen et al. (2009),467,Target,sadness
+McCutchen et al. (2009),468,Input,decide
+McCutchen et al. (2009),468,Target,decision
+McCutchen et al. (2009),469,Input,swim
+McCutchen et al. (2009),469,Target,swimmer
+McCutchen et al. (2009),470,Input,examine
+McCutchen et al. (2009),470,Target,examination
+McCutchen et al. (2009),471,Input,nerve
+McCutchen et al. (2009),471,Target,nervous
+McCutchen et al. (2009),472,Input,trick
+McCutchen et al. (2009),472,Target,tricky
+McCutchen et al. (2009),473,Input,five
+McCutchen et al. (2009),473,Target,fifth
+McCutchen et al. (2009),474,Input,absent
+McCutchen et al. (2009),474,Target,absence
+McCutchen et al. (2009),475,Input,win
+McCutchen et al. (2009),475,Target,winner
+McCutchen et al. (2009),476,Input,distant
+McCutchen et al. (2009),476,Target,distance
+McCutchen et al. (2009),477,Input,science
+McCutchen et al. (2009),477,Target,scientist
+McCutchen et al. (2009),478,Input,deep
+McCutchen et al. (2009),478,Target,depth
+McCutchen et al. (2009),479,Input,pain
+McCutchen et al. (2009),479,Target,painful
+McCutchen et al. (2009),480,Input,think
+McCutchen et al. (2009),480,Target,thought
+McCutchen et al. (2009),481,Input,accept
+McCutchen et al. (2009),481,Target,acceptable
+McCutchen et al. (2009),482,Input,comfort
+McCutchen et al. (2009),482,Target,comfortable
+McCutchen et al. (2009),483,Input,sign
+McCutchen et al. (2009),483,Target,signature
+McCutchen et al. (2009),484,Input,long
+McCutchen et al. (2009),484,Target,length
+McCutchen et al. (2009),485,Input,know
+McCutchen et al. (2009),485,Target,knowledge
+McCutchen et al. (2009),486,Input,excel
+McCutchen et al. (2009),486,Target,excellent
+Deacon et al. (2018),487,Input,behaves
+Deacon et al. (2018),487,Target,bravely
+Deacon et al. (2018),488,Input,wise
+Deacon et al. (2018),488,Target,wisely
+Deacon et al. (2018),489,Input,polite
+Deacon et al. (2018),489,Target,politely
+Deacon et al. (2018),490,Input,dust
+Deacon et al. (2018),490,Target,dusty
+Deacon et al. (2018),491,Input,mist
+Deacon et al. (2018),491,Target,misty
+Deacon et al. (2018),492,Input,frost
+Deacon et al. (2018),492,Target,frosty
+Deacon et al. (2018),493,Input,paint
+Deacon et al. (2018),493,Target,painter
+Deacon et al. (2018),494,Input,dance
+Deacon et al. (2018),494,Target,dancer
+Deacon et al. (2018),495,Input,juggle
+Deacon et al. (2018),495,Target,juggler
+Deacon et al. (2018),496,Input,ghost
+Deacon et al. (2018),496,Target,ghostie
+Deacon et al. (2018),497,Input,beast
+Deacon et al. (2018),497,Target,beastie
+Deacon et al. (2018),498,Input,bird
+Deacon et al. (2018),498,Target,birdy
+Deacon et al. (2018),499,Input,collect
+Deacon et al. (2018),499,Target,collection
+Deacon et al. (2018),500,Input,invent
+Deacon et al. (2018),500,Target,invention
+Deacon et al. (2018),501,Input,suggest
+Deacon et al. (2018),501,Target,suggestion
+Deacon et al. (2018),502,Input,move
+Deacon et al. (2018),502,Target,movement
+Deacon et al. (2018),503,Input,agree
+Deacon et al. (2018),503,Target,agreement
+Deacon et al. (2018),504,Input,argue
+Deacon et al. (2018),504,Target,argument
+Levesque et al. (2017),505,Input,warm
+Levesque et al. (2017),505,Target,warmth
+Levesque et al. (2017),506,Input,growth
+Levesque et al. (2017),506,Target,grow
+Levesque et al. (2017),507,Input,permit
+Levesque et al. (2017),507,Target,permission
+Levesque et al. (2017),508,Input,variable
+Levesque et al. (2017),508,Target,vary
+Levesque et al. (2017),509,Input,appear
+Levesque et al. (2017),509,Target,appearance
+Levesque et al. (2017),510,Input,density
+Levesque et al. (2017),510,Target,dense
+Levesque et al. (2017),511,Input,four
+Levesque et al. (2017),511,Target,fourth
+Levesque et al. (2017),512,Input,famous
+Levesque et al. (2017),512,Target,fame
+Levesque et al. (2017),513,Input,protect
+Levesque et al. (2017),513,Target,protection
+Levesque et al. (2017),514,Input,fifth
+Levesque et al. (2017),514,Target,five
+Levesque et al. (2017),515,Input,expand
+Levesque et al. (2017),515,Target,expansion
+Levesque et al. (2017),516,Input,strength
+Levesque et al. (2017),516,Target,strong
+Levesque et al. (2017),517,Input,reason
+Levesque et al. (2017),517,Target,reasonable
+Levesque et al. (2017),518,Input,popularity
+Levesque et al. (2017),518,Target,popular
+Levesque et al. (2017),519,Input,deep
+Levesque et al. (2017),519,Target,depth
+Levesque et al. (2017),520,Input,publicity
+Levesque et al. (2017),520,Target,public
+Levesque et al. (2017),521,Input,long
+Levesque et al. (2017),521,Target,length
+Levesque et al. (2017),522,Input,originality
+Levesque et al. (2017),522,Target,original
+Levesque et al. (2017),523,Input,absorb
+Levesque et al. (2017),523,Target,absorption
+Levesque et al. (2017),524,Input,courageous
+Levesque et al. (2017),524,Target,courage
+Levesque et al. (2017),525,Input,swim
+Levesque et al. (2017),525,Target,swimmer
+Levesque et al. (2017),526,Input,dangerous
+Levesque et al. (2017),526,Target,danger
+Levesque et al. (2017),527,Input,wash
+Levesque et al. (2017),527,Target,washer
+Levesque et al. (2017),528,Input,baker
+Levesque et al. (2017),528,Target,bake
+Levesque et al. (2017),529,Input,assist
+Levesque et al. (2017),529,Target,assistance
+Levesque et al. (2017),530,Input,guidance
+Levesque et al. (2017),530,Target,guide
+Levesque et al. (2017),531,Input,produce
+Levesque et al. (2017),531,Target,production
+Levesque et al. (2017),532,Input,reliable
+Levesque et al. (2017),532,Target,rely
+Levesque et al. (2017),533,Input,teach
+Levesque et al. (2017),533,Target,teacher
+Levesque et al. (2017),534,Input,acceptance
+Levesque et al. (2017),534,Target,accept
+Levesque et al. (2017),535,Input,profit
+Levesque et al. (2017),535,Target,profitable
+Levesque et al. (2017),536,Input,continuous
+Levesque et al. (2017),536,Target,continue
+Levesque et al. (2017),537,Input,major
+Levesque et al. (2017),537,Target,majority
+Levesque et al. (2017),538,Input,difference
+Levesque et al. (2017),538,Target,differ
+Levesque et al. (2017),539,Input,remark
+Levesque et al. (2017),539,Target,remarkable
+Levesque et al. (2017),540,Input,reduction
+Levesque et al. (2017),540,Target,reduce
+Levesque et al. (2017),541,Input,revise
+Levesque et al. (2017),541,Target,revision
+Levesque et al. (2017),542,Input,runner
+Levesque et al. (2017),542,Target,run
+Levesque et al. (2017),543,Input,equal
+Levesque et al. (2017),543,Target,equality
+Levesque et al. (2017),544,Input,election
+Levesque et al. (2017),544,Target,elect
+Levesque et al. (2017),545,Input,express
+Levesque et al. (2017),545,Target,expression
+Levesque et al. (2017),546,Input,width
+Levesque et al. (2017),546,Target,wide
+Levesque et al. (2017),547,Input,perform
+Levesque et al. (2017),547,Target,performance
+Levesque et al. (2017),548,Input,dryer
+Levesque et al. (2017),548,Target,dry
+Levesque et al. (2017),549,Input,adventure
+Levesque et al. (2017),549,Target,adventurous
+Levesque et al. (2017),550,Input,admission
+Levesque et al. (2017),550,Target,admit
+Levesque et al. (2017),551,Input,active
+Levesque et al. (2017),551,Target,activity
+Levesque et al. (2017),552,Input,decision
+Levesque et al. (2017),552,Target,decide
+Levesque et al. (2017),553,Input,humor
+Levesque et al. (2017),553,Target,humorous
+Levesque et al. (2017),554,Input,division
+Levesque et al. (2017),554,Target,divide
+Levesque et al. (2017),555,Input,human
+Levesque et al. (2017),555,Target,humanity
+Levesque et al. (2017),556,Input,agreeable
+Levesque et al. (2017),556,Target,agree
+Levesque et al. (2017),557,Input,glory
+Levesque et al. (2017),557,Target,glorious
+Levesque et al. (2017),558,Input,discussion
+Levesque et al. (2017),558,Target,discuss
+Levesque et al. (2017),559,Input,mystery
+Levesque et al. (2017),559,Target,mysterious
+Levesque et al. (2017),560,Input,description
+Levesque et al. (2017),560,Target,describe
+Tong et al. (2013),561,Input,strong
+Tong et al. (2013),561,Target,strongest
+Tong et al. (2013),562,Input,chill
+Tong et al. (2013),562,Target,chilly
+Tong et al. (2013),563,Input,write
+Tong et al. (2013),563,Target,writer
+Tong et al. (2013),564,Input,curl
+Tong et al. (2013),564,Target,curly
+Tong et al. (2013),565,Input,store
+Tong et al. (2013),565,Target,storage
+Tong et al. (2013),566,Input,bite
+Tong et al. (2013),566,Target,biting
+Tong et al. (2013),567,Input,goose
+Tong et al. (2013),567,Target,geese
+Tong et al. (2013),568,Input,obedient
+Tong et al. (2013),568,Target,obedience
+Tong et al. (2013),569,Input,strong
+Tong et al. (2013),569,Target,strength
+Tong et al. (2013),570,Input,clean
+Tong et al. (2013),570,Target,cleaner
+Tong et al. (2013),571,Input,deep
+Tong et al. (2013),571,Target,depth
+Tong et al. (2013),572,Input,mouse
+Tong et al. (2013),572,Target,mice
+Tong et al. (2013),573,Input,scratch
+Tong et al. (2013),573,Target,scratched
+Tong et al. (2013),574,Input,true
+Tong et al. (2013),574,Target,truth
+Tong et al. (2013),575,Input,farm
+Tong et al. (2013),575,Target,farmer
+Tong et al. (2013),576,Input,mild
+Tong et al. (2013),576,Target,mildly
+Tong et al. (2013),577,Input,sing
+Tong et al. (2013),577,Target,sang
+Tong et al. (2013),578,Input,science
+Tong et al. (2013),578,Target,scientist
+Tong et al. (2013),579,Input,shrink
+Tong et al. (2013),579,Target,shrinkage
+Tong et al. (2013),580,Input,bold
+Tong et al. (2013),580,Target,boldly
+Tong et al. (2013),581,Input,fly
+Tong et al. (2013),581,Target,flying
+Tong et al. (2011),582,Input,walk
+Tong et al. (2011),582,Target,walked
+Tong et al. (2011),583,Input,sneaker
+Tong et al. (2011),583,Target,sneakers
+Tong et al. (2011),584,Input,low
+Tong et al. (2011),584,Target,lower
+Tong et al. (2011),585,Input,stood
+Tong et al. (2011),585,Target,stand
+Tong et al. (2011),586,Input,lose
+Tong et al. (2011),586,Target,lost
+Tong et al. (2011),587,Input,say
+Tong et al. (2011),587,Target,said
+Tong et al. (2011),588,Input,child
+Tong et al. (2011),588,Target,children
+Tong et al. (2011),589,Input,kept
+Tong et al. (2011),589,Target,keep
+Tong et al. (2011),590,Input,taller
+Tong et al. (2011),590,Target,tall
+Tong et al. (2011),591,Input,fun
+Tong et al. (2011),591,Target,funny
+Tong et al. (2011),592,Input,bake
+Tong et al. (2011),592,Target,baker
+Tong et al. (2011),593,Input,sun
+Tong et al. (2011),593,Target,sunny
+Tong et al. (2011),594,Input,work
+Tong et al. (2011),594,Target,worker
+Tong et al. (2011),595,Input,deep
+Tong et al. (2011),595,Target,depth
+Tong et al. (2011),596,Input,action
+Tong et al. (2011),596,Target,act
+Tong et al. (2011),597,Input,art
+Tong et al. (2011),597,Target,artist
+Tong et al. (2011),598,Input,wide
+Tong et al. (2011),598,Target,width
+Mahony et al. (2000),599,Input,person
+Mahony et al. (2000),599,Target,personal
+Mahony et al. (2000),600,Input,allow
+Mahony et al. (2000),600,Target,allowance
+Mahony et al. (2000),601,Input,beauty
+Mahony et al. (2000),601,Target,beautiful
+Mahony et al. (2000),602,Input,region
+Mahony et al. (2000),602,Target,regional
+Mahony et al. (2000),603,Input,bag
+Mahony et al. (2000),603,Target,baggage
+Mahony et al. (2000),604,Input,pity
+Mahony et al. (2000),604,Target,pitiful
+Mahony et al. (2000),605,Input,parent
+Mahony et al. (2000),605,Target,parental
+Mahony et al. (2000),606,Input,history
+Mahony et al. (2000),606,Target,historic
+Mahony et al. (2000),607,Input,atom
+Mahony et al. (2000),607,Target,atomic
+Mahony et al. (2000),608,Input,superior
+Mahony et al. (2000),608,Target,superiority
+Mahony et al. (2000),609,Input,poet
+Mahony et al. (2000),609,Target,poetic
+Mahony et al. (2000),610,Input,participate
+Mahony et al. (2000),610,Target,participation
+Mahony et al. (2000),611,Input,deep
+Mahony et al. (2000),611,Target,depth
+Mahony et al. (2000),612,Input,sincere
+Mahony et al. (2000),612,Target,sincerity
+Mahony et al. (2000),613,Input,supervise
+Mahony et al. (2000),613,Target,supervision
+Mahony et al. (2000),614,Input,meter
+Mahony et al. (2000),614,Target,metric
+Mahony et al. (2000),615,Input,nature
+Mahony et al. (2000),615,Target,natural
+Mahony et al. (2000),616,Input,add
+Mahony et al. (2000),616,Target,addition
+Mahony et al. (2000),617,Input,associate
+Mahony et al. (2000),617,Target,association
+Mahony et al. (2000),618,Input,concentrate
+Mahony et al. (2000),618,Target,concentration
+Mahony et al. (2000),619,Input,divide
+Mahony et al. (2000),619,Target,division
+Mahony et al. (2000),620,Input,relate
+Mahony et al. (2000),620,Target,relation
+Mahony et al. (2000),621,Input,decide
+Mahony et al. (2000),621,Target,decision
+Mahony et al. (2000),622,Input,reduce
+Mahony et al. (2000),622,Target,reduction
+Mahony et al. (2000),623,Input,sign
+Mahony et al. (2000),623,Target,signature
+Mahony et al. (2000),624,Input,resign
+Mahony et al. (2000),624,Target,resignation
+Mahony et al. (2000),625,Input,bomb
+Mahony et al. (2000),625,Target,bombard
+Mahony et al. (2000),626,Input,crumb
+Mahony et al. (2000),626,Target,crumble
+Mahony et al. (2000),627,Input,sign
+Mahony et al. (2000),627,Target,signal
+Mahony et al. (2000),628,Input,knowledge
+Mahony et al. (2000),628,Target,acknowledge
+Wolter & Pike (2015),629,Input,cook
+Wolter & Pike (2015),629,Target,cookery
+Wolter & Pike (2015),630,Input,equalize
+Wolter & Pike (2015),630,Target,equalize
+Wolter & Pike (2015),631,Input,odd
+Wolter & Pike (2015),631,Target,oddity
+Wolter & Pike (2015),632,Input,odor
+Wolter & Pike (2015),632,Target,odorous
+Wolter & Pike (2015),633,Input,puzzle
+Wolter & Pike (2015),633,Target,puzzlement
+Wolter & Pike (2015),634,Input,secret
+Wolter & Pike (2015),634,Target,secretive
+Wolter & Pike (2015),635,Input,wish
+Wolter & Pike (2015),635,Target,wishful
+Wolter & Pike (2015),636,Input,ocean
+Wolter & Pike (2015),636,Target,oceanaut
+Wolter & Pike (2015),637,Input,yellow
+Wolter & Pike (2015),637,Target,yellowing
+Wolter & Pike (2015),638,Input,cover
+Wolter & Pike (2015),638,Target,coverlet
+Wolter & Pike (2015),639,Input,crazy
+Wolter & Pike (2015),639,Target,craziness
+Wolter & Pike (2015),640,Input,pay
+Wolter & Pike (2015),640,Target,payee
+Wolter & Pike (2015),641,Input,touch
+Wolter & Pike (2015),641,Target,touchily
+Wolter & Pike (2015),642,Input,game
+Wolter & Pike (2015),642,Target,gaming
+Wolter & Pike (2015),643,Input,guess
+Wolter & Pike (2015),643,Target,guesser
+Wolter & Pike (2015),644,Input,age
+Wolter & Pike (2015),644,Target,ageist
+Nagy et al. (2003),645,Input,climber
+Nagy et al. (2003),645,Target,climb
+Nagy et al. (2003),646,Input,personal
+Nagy et al. (2003),646,Target,person
+Nagy et al. (2003),647,Input,sunny
+Nagy et al. (2003),647,Target,sun
+Nagy et al. (2003),648,Input,flight
+Nagy et al. (2003),648,Target,fly
+Nagy et al. (2003),649,Input,relative
+Nagy et al. (2003),649,Target,relate
+Nagy et al. (2003),650,Input,rainy
+Nagy et al. (2003),650,Target,rain
+Nagy et al. (2003),651,Input,depth
+Nagy et al. (2003),651,Target,deep
+Nagy et al. (2003),652,Input,battle
+Nagy et al. (2003),652,Target,bat
+Nagy et al. (2003),653,Input,reasonable
+Nagy et al. (2003),653,Target,reason
+Nagy et al. (2003),654,Input,adorable
+Nagy et al. (2003),654,Target,adore
+Nagy et al. (2003),655,Input,national
+Nagy et al. (2003),655,Target,nation
+Nagy et al. (2003),656,Input,imaginary
+Nagy et al. (2003),656,Target,imagine
+Nagy et al. (2003),657,Input,thinker
+Nagy et al. (2003),657,Target,think
+Nagy et al. (2003),658,Input,laughter
+Nagy et al. (2003),658,Target,laugh
+Nagy et al. (2003),659,Input,global
+Nagy et al. (2003),659,Target,globe
+Nagy et al. (2003),660,Input,movement
+Nagy et al. (2003),660,Target,move
+Nagy et al. (2003),661,Input,tension
+Nagy et al. (2003),661,Target,tense
+Nagy et al. (2003),662,Input,reality
+Nagy et al. (2003),662,Target,real
+Nagy et al. (2003),663,Input,sanity
+Nagy et al. (2003),663,Target,sane
+Nagy et al. (2003),664,Input,donation
+Nagy et al. (2003),664,Target,donate
+Nagy et al. (2003),665,Input,dinner
+Nagy et al. (2003),665,Target,dine
+Nagy et al. (2003),666,Input,twelfth
+Nagy et al. (2003),666,Target,twelve
+Nagy et al. (2003),667,Input,fortunate
+Nagy et al. (2003),667,Target,fortune
+Nagy et al. (2003),668,Input,painful
+Nagy et al. (2003),668,Target,pain
+Nagy et al. (2003),669,Input,decision
+Nagy et al. (2003),669,Target,decide
+Nagy et al. (2003),670,Input,musical
+Nagy et al. (2003),670,Target,music
+Nagy et al. (2003),671,Input,action
+Nagy et al. (2003),671,Target,act
+Nagy et al. (2003),672,Input,fifty
+Nagy et al. (2003),672,Target,five
+Nagy et al. (2003),673,Input,permission
+Nagy et al. (2003),673,Target,permit
+Nagy et al. (2003),674,Input,clarity
+Nagy et al. (2003),674,Target,clear
+Nagy et al. (2003),675,Input,creative
+Nagy et al. (2003),675,Target,create
+Nagy et al. (2003),676,Input,loyalty
+Nagy et al. (2003),676,Target,loyal
+Nagy et al. (2003),677,Input,ability
+Nagy et al. (2003),677,Target,able
+Nagy et al. (2003),678,Input,criminal
+Nagy et al. (2003),678,Target,crime
+Nagy et al. (2003),679,Input,reliable
+Nagy et al. (2003),679,Target,rely
+Nagy et al. (2003),680,Input,education
+Nagy et al. (2003),680,Target,educate
+Nagy et al. (2003),681,Input,election
+Nagy et al. (2003),681,Target,elect
+Nagy et al. (2003),682,Input,deadly
+Nagy et al. (2003),682,Target,dead
+James et al. (2021),683,Input,lemon
+James et al. (2021),683,Target,lemons
+James et al. (2021),684,Input,ride
+James et al. (2021),684,Target,rides
+James et al. (2021),685,Input,call
+James et al. (2021),685,Target,calls
+James et al. (2021),686,Input,bend
+James et al. (2021),686,Target,bent
+James et al. (2021),687,Input,drop
+James et al. (2021),687,Target,dropped
+James et al. (2021),688,Input,elf
+James et al. (2021),688,Target,elves
+James et al. (2021),689,Input,beach
+James et al. (2021),689,Target,beaches
+James et al. (2021),690,Input,nod
+James et al. (2021),690,Target,nodded
+James et al. (2021),691,Input,think
+James et al. (2021),691,Target,thought
+James et al. (2021),692,Input,tooth
+James et al. (2021),692,Target,teeth
+James et al. (2021),693,Input,lose
+James et al. (2021),693,Target,loses
+James et al. (2021),694,Input,cross
+James et al. (2021),694,Target,crosses
+James et al. (2021),695,Input,danger
+James et al. (2021),695,Target,dangerous
+James et al. (2021),696,Input,magic
+James et al. (2021),696,Target,magician
+James et al. (2021),697,Input,electric
+James et al. (2021),697,Target,electricity
+James et al. (2021),698,Input,please
+James et al. (2021),698,Target,pleasing
+James et al. (2021),699,Input,dark
+James et al. (2021),699,Target,darkness
+James et al. (2021),700,Input,art
+James et al. (2021),700,Target,artist
+James et al. (2021),701,Input,ocean
+James et al. (2021),701,Target,oceanic
+James et al. (2021),702,Input,act
+James et al. (2021),702,Target,activity
+James et al. (2021),703,Input,work
+James et al. (2021),703,Target,worker
+James et al. (2021),704,Input,wash
+James et al. (2021),704,Target,washable
+Nagy et al. (2006),645,Input,climber
+Nagy et al. (2006),645,Target,climb
+Nagy et al. (2006),646,Input,personal
+Nagy et al. (2006),646,Target,person
+Nagy et al. (2006),647,Input,sunny
+Nagy et al. (2006),647,Target,sun
+Nagy et al. (2006),648,Input,flight
+Nagy et al. (2006),648,Target,fly
+Nagy et al. (2006),649,Input,relative
+Nagy et al. (2006),649,Target,relate
+Nagy et al. (2006),650,Input,rainy
+Nagy et al. (2006),650,Target,rain
+Nagy et al. (2006),651,Input,depth
+Nagy et al. (2006),651,Target,deep
+Nagy et al. (2006),652,Input,battle
+Nagy et al. (2006),652,Target,bat
+Nagy et al. (2006),653,Input,reasonable
+Nagy et al. (2006),653,Target,reason
+Nagy et al. (2006),654,Input,adorable
+Nagy et al. (2006),654,Target,adore
+Nagy et al. (2006),655,Input,national
+Nagy et al. (2006),655,Target,nation
+Nagy et al. (2006),656,Input,imaginary
+Nagy et al. (2006),656,Target,imagine
+Nagy et al. (2006),657,Input,thinker
+Nagy et al. (2006),657,Target,think
+Nagy et al. (2006),658,Input,laughter
+Nagy et al. (2006),658,Target,laugh
+Nagy et al. (2006),659,Input,global
+Nagy et al. (2006),659,Target,globe
+Nagy et al. (2006),660,Input,movement
+Nagy et al. (2006),660,Target,move
+Nagy et al. (2006),661,Input,tension
+Nagy et al. (2006),661,Target,tense
+Nagy et al. (2006),662,Input,reality
+Nagy et al. (2006),662,Target,real
+Nagy et al. (2006),663,Input,sanity
+Nagy et al. (2006),663,Target,sane
+Nagy et al. (2006),664,Input,donation
+Nagy et al. (2006),664,Target,donate
+Nagy et al. (2006),665,Input,dinner
+Nagy et al. (2006),665,Target,dine
+Nagy et al. (2006),666,Input,twelfth
+Nagy et al. (2006),666,Target,twelve
+Nagy et al. (2006),667,Input,fortunate
+Nagy et al. (2006),667,Target,fortune
+Nagy et al. (2006),668,Input,painful
+Nagy et al. (2006),668,Target,pain
+Nagy et al. (2006),669,Input,decision
+Nagy et al. (2006),669,Target,decide
+Nagy et al. (2006),670,Input,musical
+Nagy et al. (2006),670,Target,music
+Nagy et al. (2006),671,Input,action
+Nagy et al. (2006),671,Target,act
+Nagy et al. (2006),672,Input,fifty
+Nagy et al. (2006),672,Target,five
+Nagy et al. (2006),673,Input,permission
+Nagy et al. (2006),673,Target,permit
+Nagy et al. (2006),674,Input,clarity
+Nagy et al. (2006),674,Target,clear
+Nagy et al. (2006),675,Input,creative
+Nagy et al. (2006),675,Target,create
+Nagy et al. (2006),676,Input,loyalty
+Nagy et al. (2006),676,Target,loyal
+Nagy et al. (2006),677,Input,ability
+Nagy et al. (2006),677,Target,able
+Nagy et al. (2006),678,Input,criminal
+Nagy et al. (2006),678,Target,crime
+Nagy et al. (2006),679,Input,reliable
+Nagy et al. (2006),679,Target,rely
+Nagy et al. (2006),680,Input,education
+Nagy et al. (2006),680,Target,educate
+Nagy et al. (2006),681,Input,election
+Nagy et al. (2006),681,Target,elect
+Nagy et al. (2006),682,Input,deadly
+Nagy et al. (2006),682,Target,dead

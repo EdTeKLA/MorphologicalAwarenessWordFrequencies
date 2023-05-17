@@ -1,0 +1,1323 @@
+Reference,Item number,Type,Word,Movies Count,Movies Total Count,Movies Frequency per 1000 words
+Apel et al. (2012),1,Input,farm,9,66112,0.13613262342691193
+Apel et al. (2012),1,Target,farmer,0,66112,0.0
+Apel et al. (2012),2,Input,ill,143,66112,2.1629961277831558
+Apel et al. (2012),2,Target,illness,0,66112,0.0
+Apel et al. (2012),3,Input,quick,9,66112,0.13613262342691193
+Apel et al. (2012),3,Target,quickly,8,66112,0.12100677637947725
+Apel et al. (2012),4,Input,nerve,5,66112,0.07562923523717328
+Apel et al. (2012),4,Target,nervous,10,66112,0.15125847047434657
+Apel et al. (2012),5,Input,five,39,66112,0.5899080348499516
+Apel et al. (2012),5,Target,fifth,1,66112,0.015125847047434656
+Apel et al. (2012),6,Input,swim,2,66112,0.030251694094869313
+Apel et al. (2012),6,Target,swimming,2,66112,0.030251694094869313
+Apel et al. (2012),7,Input,victory,5,66112,0.07562923523717328
+Apel et al. (2012),7,Target,victorious,0,66112,0.0
+Apel et al. (2012),8,Input,music,5,66112,0.07562923523717328
+Apel et al. (2012),8,Target,musician,0,66112,0.0
+Apel et al. (2012),9,Input,accept,14,66112,0.21176185866408517
+Apel et al. (2012),9,Target,acceptable,1,66112,0.015125847047434656
+Apel et al. (2012),10,Input,begin,4,66112,0.060503388189738626
+Apel et al. (2012),10,Target,beginning,2,66112,0.030251694094869313
+Apel et al. (2012),11,Input,long,45,66112,0.6806631171345595
+Apel et al. (2012),11,Target,length,1,66112,0.015125847047434656
+Apel et al. (2012),12,Input,friend,23,66112,0.34789448209099705
+Apel et al. (2012),12,Target,friendly,1,66112,0.015125847047434656
+Apel et al. (2012),13,Input,warm,6,66112,0.09075508228460794
+Apel et al. (2012),13,Target,warmth,0,66112,0.0
+Apel et al. (2012),14,Input,teach,8,66112,0.12100677637947725
+Apel et al. (2012),14,Target,teacher,5,66112,0.07562923523717328
+Apel et al. (2012),15,Input,permit,0,66112,0.0
+Apel et al. (2012),15,Target,permission,2,66112,0.030251694094869313
+Apel et al. (2012),16,Input,appear,2,66112,0.030251694094869313
+Apel et al. (2012),16,Target,appearance,0,66112,0.0
+Apel et al. (2012),17,Input,remark,1,66112,0.015125847047434656
+Apel et al. (2012),17,Target,remarkable,0,66112,0.0
+Apel et al. (2012),18,Input,protect,2,66112,0.030251694094869313
+Apel et al. (2012),18,Target,protection,0,66112,0.0
+Apel et al. (2012),19,Input,revise,0,66112,0.0
+Apel et al. (2012),19,Target,revision,0,66112,0.0
+Apel et al. (2012),20,Input,deep,3,66112,0.04537754114230397
+Apel et al. (2012),20,Target,depth,0,66112,0.0
+Apel et al. (2012),21,Input,active,1,66112,0.015125847047434656
+Apel et al. (2012),21,Target,activity,1,66112,0.015125847047434656
+Apel et al. (2012),22,Input,wash,1,66112,0.015125847047434656
+Apel et al. (2012),22,Target,washer,0,66112,0.0
+Carlisle (2000),25,Input,warm,6,66112,0.09075508228460794
+Carlisle (2000),25,Target,warmth,0,66112,0.0
+Carlisle (2000),26,Input,teach,8,66112,0.12100677637947725
+Carlisle (2000),26,Target,teacher,5,66112,0.07562923523717328
+Carlisle (2000),27,Input,permit,0,66112,0.0
+Carlisle (2000),27,Target,permission,2,66112,0.030251694094869313
+Carlisle (2000),28,Input,profit,0,66112,0.0
+Carlisle (2000),28,Target,profitable,0,66112,0.0
+Carlisle (2000),29,Input,appear,2,66112,0.030251694094869313
+Carlisle (2000),29,Target,appearance,0,66112,0.0
+Carlisle (2000),30,Input,express,0,66112,0.0
+Carlisle (2000),30,Target,expression,1,66112,0.015125847047434656
+Carlisle (2000),31,Input,four,18,66112,0.27226524685382386
+Carlisle (2000),31,Target,fourth,1,66112,0.015125847047434656
+Carlisle (2000),32,Input,remark,1,66112,0.015125847047434656
+Carlisle (2000),32,Target,remarkable,0,66112,0.0
+Carlisle (2000),33,Input,protect,2,66112,0.030251694094869313
+Carlisle (2000),33,Target,protection,0,66112,0.0
+Carlisle (2000),34,Input,perform,1,66112,0.015125847047434656
+Carlisle (2000),34,Target,performance,0,66112,0.0
+Carlisle (2000),35,Input,expand,1,66112,0.015125847047434656
+Carlisle (2000),35,Target,expansion,0,66112,0.0
+Carlisle (2000),36,Input,revise,0,66112,0.0
+Carlisle (2000),36,Target,revision,0,66112,0.0
+Carlisle (2000),37,Input,reason,15,66112,0.22688770571151984
+Carlisle (2000),37,Target,reasonable,3,66112,0.04537754114230397
+Carlisle (2000),38,Input,major,11,66112,0.1663843175217812
+Carlisle (2000),38,Target,majority,0,66112,0.0
+Carlisle (2000),39,Input,deep,3,66112,0.04537754114230397
+Carlisle (2000),39,Target,depth,0,66112,0.0
+Carlisle (2000),40,Input,equal,0,66112,0.0
+Carlisle (2000),40,Target,equality,1,66112,0.015125847047434656
+Carlisle (2000),41,Input,long,45,66112,0.6806631171345595
+Carlisle (2000),41,Target,length,1,66112,0.015125847047434656
+Carlisle (2000),42,Input,adventure,5,66112,0.07562923523717328
+Carlisle (2000),42,Target,adventurous,0,66112,0.0
+Carlisle (2000),43,Input,absorb,0,66112,0.0
+Carlisle (2000),43,Target,absorption,0,66112,0.0
+Carlisle (2000),44,Input,active,1,66112,0.015125847047434656
+Carlisle (2000),44,Target,activity,1,66112,0.015125847047434656
+Carlisle (2000),45,Input,swim,2,66112,0.030251694094869313
+Carlisle (2000),45,Target,swimmer,0,66112,0.0
+Carlisle (2000),46,Input,human,3,66112,0.04537754114230397
+Carlisle (2000),46,Target,humanity,0,66112,0.0
+Carlisle (2000),47,Input,wash,1,66112,0.015125847047434656
+Carlisle (2000),47,Target,washer,0,66112,0.0
+Carlisle (2000),48,Input,humor,3,66112,0.04537754114230397
+Carlisle (2000),48,Target,humorous,0,66112,0.0
+Carlisle (2000),49,Input,assist,2,66112,0.030251694094869313
+Carlisle (2000),49,Target,assistance,0,66112,0.0
+Carlisle (2000),50,Input,mystery,2,66112,0.030251694094869313
+Carlisle (2000),50,Target,mysterious,2,66112,0.030251694094869313
+Carlisle (2000),51,Input,produce,0,66112,0.0
+Carlisle (2000),51,Target,production,0,66112,0.0
+Carlisle (2000),52,Input,glory,2,66112,0.030251694094869313
+Carlisle (2000),52,Target,glorious,1,66112,0.015125847047434656
+Carlisle (2000),53,Input,driver,2,66112,0.030251694094869313
+Carlisle (2000),53,Target,drive,13,66112,0.19663601161665054
+Carlisle (2000),54,Input,improvement,1,66112,0.015125847047434656
+Carlisle (2000),54,Target,improve,0,66112,0.0
+Carlisle (2000),55,Input,growth,2,66112,0.030251694094869313
+Carlisle (2000),55,Target,grow,2,66112,0.030251694094869313
+Carlisle (2000),56,Input,dryer,0,66112,0.0
+Carlisle (2000),56,Target,dry,5,66112,0.07562923523717328
+Carlisle (2000),57,Input,variable,0,66112,0.0
+Carlisle (2000),57,Target,vary,0,66112,0.0
+Carlisle (2000),58,Input,width,0,66112,0.0
+Carlisle (2000),58,Target,wide,1,66112,0.015125847047434656
+Carlisle (2000),59,Input,density,1,66112,0.015125847047434656
+Carlisle (2000),59,Target,dense,0,66112,0.0
+Carlisle (2000),60,Input,discussion,2,66112,0.030251694094869313
+Carlisle (2000),60,Target,discuss,1,66112,0.015125847047434656
+Carlisle (2000),61,Input,famous,4,66112,0.060503388189738626
+Carlisle (2000),61,Target,fame,0,66112,0.0
+Carlisle (2000),62,Input,description,0,66112,0.0
+Carlisle (2000),62,Target,describe,1,66112,0.015125847047434656
+Carlisle (2000),63,Input,fifth,1,66112,0.015125847047434656
+Carlisle (2000),63,Target,five,39,66112,0.5899080348499516
+Carlisle (2000),64,Input,election,1,66112,0.015125847047434656
+Carlisle (2000),64,Target,elect,0,66112,0.0
+Carlisle (2000),65,Input,strength,11,66112,0.1663843175217812
+Carlisle (2000),65,Target,strong,12,66112,0.18151016456921587
+Carlisle (2000),66,Input,decision,3,66112,0.04537754114230397
+Carlisle (2000),66,Target,decide,2,66112,0.030251694094869313
+Carlisle (2000),67,Input,popularity,1,66112,0.015125847047434656
+Carlisle (2000),67,Target,popular,0,66112,0.0
+Carlisle (2000),68,Input,runner,0,66112,0.0
+Carlisle (2000),68,Target,run,22,66112,0.3327686350435624
+Carlisle (2000),69,Input,publicity,1,66112,0.015125847047434656
+Carlisle (2000),69,Target,public,2,66112,0.030251694094869313
+Carlisle (2000),70,Input,difference,8,66112,0.12100677637947725
+Carlisle (2000),70,Target,differ,0,66112,0.0
+Carlisle (2000),71,Input,originality,0,66112,0.0
+Carlisle (2000),71,Target,original,2,66112,0.030251694094869313
+Carlisle (2000),72,Input,agreeable,0,66112,0.0
+Carlisle (2000),72,Target,agree,2,66112,0.030251694094869313
+Carlisle (2000),73,Input,courageous,0,66112,0.0
+Carlisle (2000),73,Target,courage,10,66112,0.15125847047434657
+Carlisle (2000),74,Input,admission,0,66112,0.0
+Carlisle (2000),74,Target,admit,3,66112,0.04537754114230397
+Carlisle (2000),75,Input,dangerous,7,66112,0.10588092933204259
+Carlisle (2000),75,Target,danger,4,66112,0.060503388189738626
+Carlisle (2000),76,Input,reduction,0,66112,0.0
+Carlisle (2000),76,Target,reduce,0,66112,0.0
+Carlisle (2000),77,Input,baker,0,66112,0.0
+Carlisle (2000),77,Target,bake,0,66112,0.0
+Carlisle (2000),78,Input,division,0,66112,0.0
+Carlisle (2000),78,Target,divide,0,66112,0.0
+Carlisle (2000),79,Input,guidance,1,66112,0.015125847047434656
+Carlisle (2000),79,Target,guide,2,66112,0.030251694094869313
+Carlisle (2000),80,Input,continuous,0,66112,0.0
+Carlisle (2000),80,Target,continue,4,66112,0.060503388189738626
+Carlisle (2000),81,Input,reliable,4,66112,0.060503388189738626
+Carlisle (2000),81,Target,rely,1,66112,0.015125847047434656
+Carlisle (2000),82,Input,acceptance,0,66112,0.0
+Carlisle (2000),82,Target,accept,14,66112,0.21176185866408517
+Kieffer & Lesaux (2008),85,Input,growth,2,66112,0.030251694094869313
+Kieffer & Lesaux (2008),85,Target,grow,2,66112,0.030251694094869313
+Kieffer & Lesaux (2008),86,Input,dryer,0,66112,0.0
+Kieffer & Lesaux (2008),86,Target,dry,5,66112,0.07562923523717328
+Kieffer & Lesaux (2008),87,Input,width,0,66112,0.0
+Kieffer & Lesaux (2008),87,Target,wide,1,66112,0.015125847047434656
+Kieffer & Lesaux (2008),88,Input,density,1,66112,0.015125847047434656
+Kieffer & Lesaux (2008),88,Target,dense,0,66112,0.0
+Kieffer & Lesaux (2008),89,Input,discussion,2,66112,0.030251694094869313
+Kieffer & Lesaux (2008),89,Target,discuss,1,66112,0.015125847047434656
+Kieffer & Lesaux (2008),90,Input,famous,4,66112,0.060503388189738626
+Kieffer & Lesaux (2008),90,Target,fame,0,66112,0.0
+Kieffer & Lesaux (2008),91,Input,fifth,1,66112,0.015125847047434656
+Kieffer & Lesaux (2008),91,Target,five,39,66112,0.5899080348499516
+Kieffer & Lesaux (2008),92,Input,strength,11,66112,0.1663843175217812
+Kieffer & Lesaux (2008),92,Target,strong,12,66112,0.18151016456921587
+Kieffer & Lesaux (2008),93,Input,decision,3,66112,0.04537754114230397
+Kieffer & Lesaux (2008),93,Target,decide,2,66112,0.030251694094869313
+Kieffer & Lesaux (2008),94,Input,popularity,1,66112,0.015125847047434656
+Kieffer & Lesaux (2008),94,Target,popular,0,66112,0.0
+Kieffer & Lesaux (2008),95,Input,runner,0,66112,0.0
+Kieffer & Lesaux (2008),95,Target,run,22,66112,0.3327686350435624
+Kieffer & Lesaux (2008),96,Input,availability,0,66112,0.0
+Kieffer & Lesaux (2008),96,Target,available,6,66112,0.09075508228460794
+Kieffer & Lesaux (2008),97,Input,glorious,1,66112,0.015125847047434656
+Kieffer & Lesaux (2008),97,Target,glory,2,66112,0.030251694094869313
+Kieffer & Lesaux (2008),98,Input,originality,0,66112,0.0
+Kieffer & Lesaux (2008),98,Target,original,2,66112,0.030251694094869313
+Kieffer & Lesaux (2008),99,Input,courageous,0,66112,0.0
+Kieffer & Lesaux (2008),99,Target,courage,10,66112,0.15125847047434657
+Kieffer & Lesaux (2008),100,Input,admission,0,66112,0.0
+Kieffer & Lesaux (2008),100,Target,admit,3,66112,0.04537754114230397
+Kieffer & Lesaux (2008),101,Input,baker,0,66112,0.0
+Kieffer & Lesaux (2008),101,Target,bake,0,66112,0.0
+Kieffer & Lesaux (2008),102,Input,division,0,66112,0.0
+Kieffer & Lesaux (2008),102,Target,divide,0,66112,0.0
+Kieffer & Lesaux (2008),103,Input,fourth,1,66112,0.015125847047434656
+Kieffer & Lesaux (2008),103,Target,four,18,66112,0.27226524685382386
+Kieffer & Lesaux (2008),104,Input,continuous,0,66112,0.0
+Kieffer & Lesaux (2008),104,Target,continue,4,66112,0.060503388189738626
+Kieffer & Lesaux (2008),105,Input,swimmer,0,66112,0.0
+Kieffer & Lesaux (2008),105,Target,swim,2,66112,0.030251694094869313
+Kieffer & Lesaux (2008),106,Input,furious,0,66112,0.0
+Kieffer & Lesaux (2008),106,Target,fury,0,66112,0.0
+Kieffer & Lesaux (2008),107,Input,teacher,5,66112,0.07562923523717328
+Kieffer & Lesaux (2008),107,Target,teach,8,66112,0.12100677637947725
+Kieffer & Lesaux (2008),108,Input,activity,1,66112,0.015125847047434656
+Kieffer & Lesaux (2008),108,Target,active,1,66112,0.015125847047434656
+Kieffer & Lesaux (2008),109,Input,possession,3,66112,0.04537754114230397
+Kieffer & Lesaux (2008),109,Target,possess,1,66112,0.015125847047434656
+Kruk & Bergman (2013),110,Input,needed,13,66112,0.19663601161665054
+Kruk & Bergman (2013),110,Target,need,44,66112,0.6655372700871248
+Kruk & Bergman (2013),111,Input,owner,0,66112,0.0
+Kruk & Bergman (2013),111,Target,own,38,66112,0.574782187802517
+Kruk & Bergman (2013),112,Input,decision,3,66112,0.04537754114230397
+Kruk & Bergman (2013),112,Target,decide,2,66112,0.030251694094869313
+Kruk & Bergman (2013),113,Input,flowers,3,66112,0.04537754114230397
+Kruk & Bergman (2013),113,Target,flower,1,66112,0.015125847047434656
+Kruk & Bergman (2013),114,Input,cutting,2,66112,0.030251694094869313
+Kruk & Bergman (2013),114,Target,cut,14,66112,0.21176185866408517
+Kruk & Bergman (2013),115,Input,running,15,66112,0.22688770571151984
+Kruk & Bergman (2013),115,Target,run,22,66112,0.3327686350435624
+Kruk & Bergman (2013),116,Input,walked,3,66112,0.04537754114230397
+Kruk & Bergman (2013),116,Target,walk,14,66112,0.21176185866408517
+Kruk & Bergman (2013),117,Input,friends,18,66112,0.27226524685382386
+Kruk & Bergman (2013),117,Target,friend,23,66112,0.34789448209099705
+Kruk & Bergman (2013),118,Input,wanted,35,66112,0.5294046466602129
+Kruk & Bergman (2013),118,Target,want,133,66112,2.0117376573088093
+Kruk & Bergman (2013),119,Input,glasses,1,66112,0.015125847047434656
+Kruk & Bergman (2013),119,Target,glass,5,66112,0.07562923523717328
+Kruk & Bergman (2013),120,Input,popularity,1,66112,0.015125847047434656
+Kruk & Bergman (2013),120,Target,popular,0,66112,0.0
+Kruk & Bergman (2013),121,Input,dirty,1,66112,0.015125847047434656
+Kruk & Bergman (2013),121,Target,dirt,3,66112,0.04537754114230397
+Kruk & Bergman (2013),122,Input,reader,0,66112,0.0
+Kruk & Bergman (2013),122,Target,read,27,66112,0.4083978702807357
+Kruk & Bergman (2013),123,Input,babies,4,66112,0.060503388189738626
+Kruk & Bergman (2013),123,Target,baby,27,66112,0.4083978702807357
+Kruk & Bergman (2013),124,Input,books,9,66112,0.13613262342691193
+Kruk & Bergman (2013),124,Target,book,11,66112,0.1663843175217812
+Kruk & Bergman (2013),125,Input,acceptance,0,66112,0.0
+Kruk & Bergman (2013),125,Target,accept,14,66112,0.21176185866408517
+Kruk & Bergman (2013),126,Input,growth,2,66112,0.030251694094869313
+Kruk & Bergman (2013),126,Target,grow,2,66112,0.030251694094869313
+Kruk & Bergman (2013),127,Input,dryer,0,66112,0.0
+Kruk & Bergman (2013),127,Target,dry,5,66112,0.07562923523717328
+Kruk & Bergman (2013),128,Input,density,1,66112,0.015125847047434656
+Kruk & Bergman (2013),128,Target,dense,0,66112,0.0
+Kruk & Bergman (2013),129,Input,agreement,3,66112,0.04537754114230397
+Kruk & Bergman (2013),129,Target,agree,2,66112,0.030251694094869313
+Kruk & Bergman (2013),130,Input,believe,44,66112,0.6655372700871248
+Kruk & Bergman (2013),130,Target,belief,0,66112,0.0
+Kruk & Bergman (2013),131,Input,carried,2,66112,0.030251694094869313
+Kruk & Bergman (2013),131,Target,carry,7,66112,0.10588092933204259
+Kruk & Bergman (2013),132,Input,strength,11,66112,0.1663843175217812
+Kruk & Bergman (2013),132,Target,strong,12,66112,0.18151016456921587
+Kruk & Bergman (2013),133,Input,fifth,1,66112,0.015125847047434656
+Kruk & Bergman (2013),133,Target,five,39,66112,0.5899080348499516
+Kruk & Bergman (2013),134,Input,leaves,2,66112,0.030251694094869313
+Kruk & Bergman (2013),134,Target,leaf,1,66112,0.015125847047434656
+Kruk & Bergman (2013),135,Input,discussion,2,66112,0.030251694094869313
+Kruk & Bergman (2013),135,Target,discuss,1,66112,0.015125847047434656
+Kruk & Bergman (2013),136,Input,description,0,66112,0.0
+Kruk & Bergman (2013),136,Target,describe,1,66112,0.015125847047434656
+Kruk & Bergman (2013),137,Input,enter,1,66112,0.015125847047434656
+Kruk & Bergman (2013),137,Target,entered,1,66112,0.015125847047434656
+Kruk & Bergman (2013),138,Input,sing,1,66112,0.015125847047434656
+Kruk & Bergman (2013),138,Target,singer,0,66112,0.0
+Kruk & Bergman (2013),139,Input,try,36,66112,0.5445304937076477
+Kruk & Bergman (2013),139,Target,tried,13,66112,0.19663601161665054
+Kruk & Bergman (2013),140,Input,tree,9,66112,0.13613262342691193
+Kruk & Bergman (2013),140,Target,trees,3,66112,0.04537754114230397
+Kruk & Bergman (2013),141,Input,stop,49,66112,0.7411665053242982
+Kruk & Bergman (2013),141,Target,stopped,7,66112,0.10588092933204259
+Kruk & Bergman (2013),142,Input,egg,2,66112,0.030251694094869313
+Kruk & Bergman (2013),142,Target,eggs,1,66112,0.015125847047434656
+Kruk & Bergman (2013),143,Input,perform,1,66112,0.015125847047434656
+Kruk & Bergman (2013),143,Target,performance,0,66112,0.0
+Kruk & Bergman (2013),144,Input,sun,10,66112,0.15125847047434657
+Kruk & Bergman (2013),144,Target,sunny,0,66112,0.0
+Kruk & Bergman (2013),145,Input,car,19,66112,0.2873910939012585
+Kruk & Bergman (2013),145,Target,cars,11,66112,0.1663843175217812
+Kruk & Bergman (2013),146,Input,ask,49,66112,0.7411665053242982
+Kruk & Bergman (2013),146,Target,asked,18,66112,0.27226524685382386
+Kruk & Bergman (2013),147,Input,warm,6,66112,0.09075508228460794
+Kruk & Bergman (2013),147,Target,warmth,0,66112,0.0
+Kruk & Bergman (2013),148,Input,fish,8,66112,0.12100677637947725
+Kruk & Bergman (2013),148,Target,fishing,0,66112,0.0
+Kruk & Bergman (2013),149,Input,wish,31,66112,0.4689012584704743
+Kruk & Bergman (2013),149,Target,wishes,0,66112,0.0
+Kruk & Bergman (2013),150,Input,come,185,66112,2.7982817037754115
+Kruk & Bergman (2013),150,Target,coming,24,66112,0.36302032913843174
+Kruk & Bergman (2013),151,Input,assist,2,66112,0.030251694094869313
+Kruk & Bergman (2013),151,Target,assistance,0,66112,0.0
+Kruk & Bergman (2013),152,Input,human,3,66112,0.04537754114230397
+Kruk & Bergman (2013),152,Target,humanity,0,66112,0.0
+Kruk & Bergman (2013),153,Input,teach,8,66112,0.12100677637947725
+Kruk & Bergman (2013),153,Target,teacher,5,66112,0.07562923523717328
+Kruk & Bergman (2013),154,Input,profit,0,66112,0.0
+Kruk & Bergman (2013),154,Target,profitable,0,66112,0.0
+Kruk & Bergman (2013),155,Input,appear,2,66112,0.030251694094869313
+Kruk & Bergman (2013),155,Target,appearance,0,66112,0.0
+Kruk & Bergman (2013),156,Input,body,16,66112,0.2420135527589545
+Kruk & Bergman (2013),156,Target,bodies,0,66112,0.0
+Kruk & Bergman (2013),157,Input,deep,3,66112,0.04537754114230397
+Kruk & Bergman (2013),157,Target,depth,0,66112,0.0
+Kruk & Bergman (2013),158,Input,life,50,66112,0.7562923523717328
+Kruk & Bergman (2013),158,Target,live,35,66112,0.5294046466602129
+Kruk & Bergman (2013),159,Input,dead,38,66112,0.574782187802517
+Kruk & Bergman (2013),159,Target,death,16,66112,0.2420135527589545
+Kruk & Bergman (2013),160,Input,permit,0,66112,0.0
+Kruk & Bergman (2013),160,Target,permission,2,66112,0.030251694094869313
+Kruk & Bergman (2013),161,Input,shelf,0,66112,0.0
+Kruk & Bergman (2013),161,Target,shelves,0,66112,0.0
+Kruk & Bergman (2013),162,Input,protect,2,66112,0.030251694094869313
+Kruk & Bergman (2013),162,Target,protection,0,66112,0.0
+Kruk & Bergman (2013),163,Input,active,1,66112,0.015125847047434656
+Kruk & Bergman (2013),163,Target,activity,1,66112,0.015125847047434656
+Lam (2009),167,Input,growth,2,66112,0.030251694094869313
+Lam (2009),167,Target,grow,2,66112,0.030251694094869313
+Lam (2009),168,Input,density,1,66112,0.015125847047434656
+Lam (2009),168,Target,dense,0,66112,0.0
+Lam (2009),169,Input,description,0,66112,0.0
+Lam (2009),169,Target,describe,1,66112,0.015125847047434656
+Lam (2009),170,Input,runner,0,66112,0.0
+Lam (2009),170,Target,run,22,66112,0.3327686350435624
+Lam (2009),171,Input,jacket,1,66112,0.015125847047434656
+Lam (2009),171,Target,jackets,0,66112,0.0
+Lam (2009),172,Input,skip,2,66112,0.030251694094869313
+Lam (2009),172,Target,skipped,1,66112,0.015125847047434656
+Lam (2009),173,Input,music,5,66112,0.07562923523717328
+Lam (2009),173,Target,musician,0,66112,0.0
+Lam (2009),174,Input,slow,9,66112,0.13613262342691193
+Lam (2009),174,Target,slowest,0,66112,0.0
+Lam (2009),175,Input,science,5,66112,0.07562923523717328
+Lam (2009),175,Target,scientist,1,66112,0.015125847047434656
+Lam (2009),176,Input,four,18,66112,0.27226524685382386
+Lam (2009),176,Target,fourth,1,66112,0.015125847047434656
+Lam (2009),177,Input,dance,21,66112,0.3176427879961278
+Lam (2009),177,Target,dancer,1,66112,0.015125847047434656
+Lam (2009),178,Input,art,2,66112,0.030251694094869313
+Lam (2009),178,Target,artist,2,66112,0.030251694094869313
+Lam (2009),179,Input,cloud,1,66112,0.015125847047434656
+Lam (2009),179,Target,cloudy,1,66112,0.015125847047434656
+Lam (2009),180,Input,paint,5,66112,0.07562923523717328
+Lam (2009),180,Target,painter,1,66112,0.015125847047434656
+Lam (2009),181,Input,curl,0,66112,0.0
+Lam (2009),181,Target,curly,0,66112,0.0
+Lam (2009),182,Input,calm,5,66112,0.07562923523717328
+Lam (2009),182,Target,calmly,0,66112,0.0
+Lam (2009),183,Input,magic,1,66112,0.015125847047434656
+Lam (2009),183,Target,musician,0,66112,0.0
+Lam (2009),184,Input,strong,12,66112,0.18151016456921587
+Lam (2009),184,Target,strength,11,66112,0.1663843175217812
+Lam (2009),185,Input,discuss,1,66112,0.015125847047434656
+Lam (2009),185,Target,discussion,2,66112,0.030251694094869313
+Lam (2009),186,Input,appear,2,66112,0.030251694094869313
+Lam (2009),186,Target,appearance,0,66112,0.0
+Lam (2009),187,Input,remark,1,66112,0.015125847047434656
+Lam (2009),187,Target,remarkable,0,66112,0.0
+Lam (2009),188,Input,major,11,66112,0.1663843175217812
+Lam (2009),188,Target,majority,0,66112,0.0
+Lam (2009),189,Input,humour,0,66112,0.0
+Lam (2009),189,Target,humorous,0,66112,0.0
+Lam (2009),190,Input,mystery,2,66112,0.030251694094869313
+Lam (2009),190,Target,mysterious,2,66112,0.030251694094869313
+Deacon et al. (2013),192,Input,plugs,0,66112,0.0
+Deacon et al. (2013),192,Target,plugged,0,66112,0.0
+Deacon et al. (2013),194,Input,chased,0,66112,0.0
+Deacon et al. (2013),194,Target,chases,0,66112,0.0
+Deacon et al. (2013),196,Input,slammed,0,66112,0.0
+Deacon et al. (2013),196,Target,slams,0,66112,0.0
+Deacon et al. (2013),198,Input,feeds,1,66112,0.015125847047434656
+Deacon et al. (2013),198,Target,fed,0,66112,0.0
+Deacon et al. (2013),200,Input,crept,0,66112,0.0
+Deacon et al. (2013),200,Target,creeps,0,66112,0.0
+Deacon et al. (2013),202,Input,sells,1,66112,0.015125847047434656
+Deacon et al. (2013),202,Target,sold,0,66112,0.0
+Deacon et al. (2013),204,Input,ran,4,66112,0.060503388189738626
+Deacon et al. (2013),204,Target,runs,8,66112,0.12100677637947725
+Deacon et al. (2013),206,Input,opens,0,66112,0.0
+Deacon et al. (2013),206,Target,opened,7,66112,0.10588092933204259
+Deacon et al. (2013),208,Input,strong,12,66112,0.18151016456921587
+Deacon et al. (2013),208,Target,strongest,1,66112,0.015125847047434656
+Deacon et al. (2013),210,Input,chill,1,66112,0.015125847047434656
+Deacon et al. (2013),210,Target,chilly,0,66112,0.0
+Deacon et al. (2013),212,Input,write,14,66112,0.21176185866408517
+Deacon et al. (2013),212,Target,writer,5,66112,0.07562923523717328
+Deacon et al. (2013),214,Input,curl,0,66112,0.0
+Deacon et al. (2013),214,Target,curly,0,66112,0.0
+Deacon et al. (2013),216,Input,store,1,66112,0.015125847047434656
+Deacon et al. (2013),216,Target,shortage,5,66112,0.07562923523717328
+Deacon et al. (2013),218,Input,bite,7,66112,0.10588092933204259
+Deacon et al. (2013),218,Target,biting,1,66112,0.015125847047434656
+Deacon et al. (2013),220,Input,goose,2,66112,0.030251694094869313
+Deacon et al. (2013),220,Target,geese,0,66112,0.0
+Deacon et al. (2013),222,Input,obedient,1,66112,0.015125847047434656
+Deacon et al. (2013),222,Target,obedience,0,66112,0.0
+Deacon et al. (2013),224,Input,strong,12,66112,0.18151016456921587
+Deacon et al. (2013),224,Target,strength,11,66112,0.1663843175217812
+Deacon et al. (2013),226,Input,clean,1,66112,0.015125847047434656
+Deacon et al. (2013),226,Target,cleaner,0,66112,0.0
+Deacon et al. (2013),228,Input,deep,3,66112,0.04537754114230397
+Deacon et al. (2013),228,Target,depth,0,66112,0.0
+Deacon et al. (2013),230,Input,mouse,0,66112,0.0
+Deacon et al. (2013),230,Target,mice,1,66112,0.015125847047434656
+Deacon et al. (2013),232,Input,scratch,0,66112,0.0
+Deacon et al. (2013),232,Target,scratched,0,66112,0.0
+Deacon et al. (2013),234,Input,true,26,66112,0.39327202323330107
+Deacon et al. (2013),234,Target,truth,6,66112,0.09075508228460794
+Deacon et al. (2013),236,Input,farm,9,66112,0.13613262342691193
+Deacon et al. (2013),236,Target,farmer,0,66112,0.0
+Deacon et al. (2013),238,Input,mild,0,66112,0.0
+Deacon et al. (2013),238,Target,mildly,0,66112,0.0
+Deacon et al. (2013),240,Input,sing,1,66112,0.015125847047434656
+Deacon et al. (2013),240,Target,sang,1,66112,0.015125847047434656
+Deacon et al. (2013),242,Input,science,5,66112,0.07562923523717328
+Deacon et al. (2013),242,Target,scientist,1,66112,0.015125847047434656
+Deacon et al. (2013),244,Input,shrink,0,66112,0.0
+Deacon et al. (2013),244,Target,shrinkage,0,66112,0.0
+Deacon et al. (2013),246,Input,bold,2,66112,0.030251694094869313
+Deacon et al. (2013),246,Target,boldly,0,66112,0.0
+Deacon et al. (2013),248,Input,fly,16,66112,0.2420135527589545
+Deacon et al. (2013),248,Target,flying,3,66112,0.04537754114230397
+Deacon (2012),250,Input,plugs,0,66112,0.0
+Deacon (2012),250,Target,plugged,0,66112,0.0
+Deacon (2012),252,Input,chased,0,66112,0.0
+Deacon (2012),252,Target,chases,0,66112,0.0
+Deacon (2012),254,Input,slammed,0,66112,0.0
+Deacon (2012),254,Target,slams,0,66112,0.0
+Deacon (2012),256,Input,feeds,1,66112,0.015125847047434656
+Deacon (2012),256,Target,fed,0,66112,0.0
+Deacon (2012),258,Input,crept,0,66112,0.0
+Deacon (2012),258,Target,creeps,0,66112,0.0
+Deacon (2012),260,Input,sells,1,66112,0.015125847047434656
+Deacon (2012),260,Target,sold,0,66112,0.0
+Deacon (2012),262,Input,ran,4,66112,0.060503388189738626
+Deacon (2012),262,Target,runs,8,66112,0.12100677637947725
+Deacon (2012),264,Input,opens,0,66112,0.0
+Deacon (2012),264,Target,opened,7,66112,0.10588092933204259
+Deacon et al. (2007),266,Input,shakes,0,66112,0.0
+Deacon et al. (2007),266,Target,shook,1,66112,0.015125847047434656
+Deacon et al. (2007),268,Input,keeping,2,66112,0.030251694094869313
+Deacon et al. (2007),268,Target,kept,3,66112,0.04537754114230397
+Deacon et al. (2007),270,Input,fed,0,66112,0.0
+Deacon et al. (2007),270,Target,feeds,1,66112,0.015125847047434656
+Deacon et al. (2007),272,Input,left,44,66112,0.6655372700871248
+Deacon et al. (2007),272,Target,leaves,2,66112,0.030251694094869313
+Deacon et al. (2007),274,Input,laughed,2,66112,0.030251694094869313
+Deacon et al. (2007),274,Target,laughs,1,66112,0.015125847047434656
+Deacon et al. (2007),276,Input,slams,0,66112,0.0
+Deacon et al. (2007),276,Target,slammed,0,66112,0.0
+Deacon et al. (2007),278,Input,runs,8,66112,0.12100677637947725
+Deacon et al. (2007),278,Target,ran,4,66112,0.060503388189738626
+Deacon et al. (2014),288,Input,strong,12,66112,0.18151016456921587
+Deacon et al. (2014),288,Target,strongest,1,66112,0.015125847047434656
+Deacon et al. (2014),290,Input,chill,1,66112,0.015125847047434656
+Deacon et al. (2014),290,Target,chilly,0,66112,0.0
+Deacon et al. (2014),292,Input,write,14,66112,0.21176185866408517
+Deacon et al. (2014),292,Target,writer,5,66112,0.07562923523717328
+Deacon et al. (2014),294,Input,curl,0,66112,0.0
+Deacon et al. (2014),294,Target,curly,0,66112,0.0
+Deacon et al. (2014),296,Input,store,1,66112,0.015125847047434656
+Deacon et al. (2014),296,Target,storage,0,66112,0.0
+Deacon et al. (2014),298,Input,bite,7,66112,0.10588092933204259
+Deacon et al. (2014),298,Target,biting,1,66112,0.015125847047434656
+Deacon et al. (2014),300,Input,goose,2,66112,0.030251694094869313
+Deacon et al. (2014),300,Target,geese,0,66112,0.0
+Deacon et al. (2014),302,Input,obedient,1,66112,0.015125847047434656
+Deacon et al. (2014),302,Target,obedience,0,66112,0.0
+Deacon et al. (2014),304,Input,strong,12,66112,0.18151016456921587
+Deacon et al. (2014),304,Target,strength,11,66112,0.1663843175217812
+Deacon et al. (2014),306,Input,clean,1,66112,0.015125847047434656
+Deacon et al. (2014),306,Target,cleaner,0,66112,0.0
+Deacon et al. (2014),308,Input,deep,3,66112,0.04537754114230397
+Deacon et al. (2014),308,Target,depth,0,66112,0.0
+Deacon et al. (2014),310,Input,mouse,0,66112,0.0
+Deacon et al. (2014),310,Target,mice,1,66112,0.015125847047434656
+Deacon et al. (2014),312,Input,scratch,0,66112,0.0
+Deacon et al. (2014),312,Target,scratched,0,66112,0.0
+Deacon et al. (2014),314,Input,true,26,66112,0.39327202323330107
+Deacon et al. (2014),314,Target,truth,6,66112,0.09075508228460794
+Deacon et al. (2014),316,Input,farm,9,66112,0.13613262342691193
+Deacon et al. (2014),316,Target,farmer,0,66112,0.0
+Deacon et al. (2014),318,Input,mild,0,66112,0.0
+Deacon et al. (2014),318,Target,mildly,0,66112,0.0
+Deacon et al. (2014),320,Input,sing,1,66112,0.015125847047434656
+Deacon et al. (2014),320,Target,sang,1,66112,0.015125847047434656
+Deacon et al. (2014),322,Input,science,5,66112,0.07562923523717328
+Deacon et al. (2014),322,Target,scientist,1,66112,0.015125847047434656
+Deacon et al. (2014),324,Input,shrink,0,66112,0.0
+Deacon et al. (2014),324,Target,shrinkage,0,66112,0.0
+Deacon et al. (2014),326,Input,bold,2,66112,0.030251694094869313
+Deacon et al. (2014),326,Target,boldly,0,66112,0.0
+Deacon et al. (2014),328,Input,fly,16,66112,0.2420135527589545
+Deacon et al. (2014),328,Target,flying,3,66112,0.04537754114230397
+Ku & Anderson (2003),330,Input,grow,2,66112,0.030251694094869313
+Ku & Anderson (2003),330,Target,growth,2,66112,0.030251694094869313
+Ku & Anderson (2003),331,Input,dance,21,66112,0.3176427879961278
+Ku & Anderson (2003),331,Target,dancer,1,66112,0.015125847047434656
+Ku & Anderson (2003),332,Input,art,2,66112,0.030251694094869313
+Ku & Anderson (2003),332,Target,artist,2,66112,0.030251694094869313
+Ku & Anderson (2003),333,Input,baker,0,66112,0.0
+Ku & Anderson (2003),333,Target,bakery,0,66112,0.0
+Ku & Anderson (2003),334,Input,dirt,3,66112,0.04537754114230397
+Ku & Anderson (2003),334,Target,dirty,1,66112,0.015125847047434656
+Ku & Anderson (2003),335,Input,after,53,66112,0.8016698935140368
+Ku & Anderson (2003),335,Target,afternoon,7,66112,0.10588092933204259
+Ku & Anderson (2003),336,Input,man,81,66112,1.2251936108422072
+Ku & Anderson (2003),336,Target,many,20,66112,0.30251694094869314
+Ku & Anderson (2003),337,Input,person,10,66112,0.15125847047434657
+Ku & Anderson (2003),337,Target,personal,5,66112,0.07562923523717328
+Ku & Anderson (2003),338,Input,pain,7,66112,0.10588092933204259
+Ku & Anderson (2003),338,Target,painful,2,66112,0.030251694094869313
+Ku & Anderson (2003),339,Input,fire,20,66112,0.30251694094869314
+Ku & Anderson (2003),339,Target,fireplace,0,66112,0.0
+Levesque et al. (2019),340,Input,agree,2,66112,0.030251694094869313
+Levesque et al. (2019),340,Target,agreeable,0,66112,0.0
+Levesque et al. (2019),341,Input,depend,0,66112,0.0
+Levesque et al. (2019),341,Target,dependable,0,66112,0.0
+Levesque et al. (2019),342,Input,fear,12,66112,0.18151016456921587
+Levesque et al. (2019),342,Target,fearless,1,66112,0.015125847047434656
+Levesque et al. (2019),343,Input,forget,19,66112,0.2873910939012585
+Levesque et al. (2019),343,Target,forgetful,0,66112,0.0
+Levesque et al. (2019),344,Input,knowledge,3,66112,0.04537754114230397
+Levesque et al. (2019),344,Target,knowledgeable,0,66112,0.0
+Levesque et al. (2019),345,Input,local,3,66112,0.04537754114230397
+Levesque et al. (2019),345,Target,locally,0,66112,0.0
+Levesque et al. (2019),346,Input,loud,1,66112,0.015125847047434656
+Levesque et al. (2019),346,Target,loudness,0,66112,0.0
+Levesque et al. (2019),347,Input,measure,1,66112,0.015125847047434656
+Levesque et al. (2019),347,Target,measurable,0,66112,0.0
+Levesque et al. (2019),348,Input,purpose,3,66112,0.04537754114230397
+Levesque et al. (2019),348,Target,purposeful,0,66112,0.0
+Levesque et al. (2019),349,Input,question,14,66112,0.21176185866408517
+Levesque et al. (2019),349,Target,questionable,0,66112,0.0
+Levesque et al. (2019),350,Input,respect,7,66112,0.10588092933204259
+Levesque et al. (2019),350,Target,respectful,0,66112,0.0
+Levesque et al. (2019),351,Input,rich,8,66112,0.12100677637947725
+Levesque et al. (2019),351,Target,richness,0,66112,0.0
+Levesque et al. (2019),352,Input,sense,8,66112,0.12100677637947725
+Levesque et al. (2019),352,Target,senseless,1,66112,0.015125847047434656
+Levesque et al. (2019),353,Input,serious,14,66112,0.21176185866408517
+Levesque et al. (2019),353,Target,seriousness,0,66112,0.0
+Levesque et al. (2019),354,Input,slow,9,66112,0.13613262342691193
+Levesque et al. (2019),354,Target,slowness,0,66112,0.0
+Levesque et al. (2019),355,Input,smooth,1,66112,0.015125847047434656
+Levesque et al. (2019),355,Target,smoothness,0,66112,0.0
+Levesque et al. (2019),356,Input,soft,2,66112,0.030251694094869313
+Levesque et al. (2019),356,Target,softness,0,66112,0.0
+Levesque et al. (2019),357,Input,speech,1,66112,0.015125847047434656
+Levesque et al. (2019),357,Target,speechless,0,66112,0.0
+Levesque et al. (2019),358,Input,taste,5,66112,0.07562923523717328
+Levesque et al. (2019),358,Target,tasteless,1,66112,0.015125847047434656
+Levesque et al. (2019),359,Input,weight,2,66112,0.030251694094869313
+Levesque et al. (2019),359,Target,weightless,2,66112,0.030251694094869313
+Levesque et al. (2019),360,Input,align,0,66112,0.0
+Levesque et al. (2019),360,Target,alignment,1,66112,0.015125847047434656
+Levesque et al. (2019),361,Input,appraise,0,66112,0.0
+Levesque et al. (2019),361,Target,appraisal,0,66112,0.0
+Levesque et al. (2019),362,Input,cease,2,66112,0.030251694094869313
+Levesque et al. (2019),362,Target,ceaseless,0,66112,0.0
+Levesque et al. (2019),363,Input,conceive,0,66112,0.0
+Levesque et al. (2019),363,Target,conceivable,0,66112,0.0
+Levesque et al. (2019),364,Input,confine,0,66112,0.0
+Levesque et al. (2019),364,Target,confinement,0,66112,0.0
+Levesque et al. (2019),365,Input,coward,5,66112,0.07562923523717328
+Levesque et al. (2019),365,Target,cowardly,1,66112,0.015125847047434656
+Levesque et al. (2019),366,Input,dispose,0,66112,0.0
+Levesque et al. (2019),366,Target,disposable,0,66112,0.0
+Levesque et al. (2019),367,Input,endorse,1,66112,0.015125847047434656
+Levesque et al. (2019),367,Target,endorsement,0,66112,0.0
+Levesque et al. (2019),368,Input,envy,1,66112,0.015125847047434656
+Levesque et al. (2019),368,Target,envious,0,66112,0.0
+Levesque et al. (2019),369,Input,eternal,0,66112,0.0
+Levesque et al. (2019),369,Target,eternally,0,66112,0.0
+Levesque et al. (2019),370,Input,forgive,11,66112,0.1663843175217812
+Levesque et al. (2019),370,Target,forgiveness,0,66112,0.0
+Levesque et al. (2019),371,Input,fright,0,66112,0.0
+Levesque et al. (2019),371,Target,frightful,0,66112,0.0
+Levesque et al. (2019),372,Input,hazard,0,66112,0.0
+Levesque et al. (2019),372,Target,hazardous,0,66112,0.0
+Levesque et al. (2019),373,Input,install,0,66112,0.0
+Levesque et al. (2019),373,Target,installment,0,66112,0.0
+Levesque et al. (2019),374,Input,mourn,0,66112,0.0
+Levesque et al. (2019),374,Target,mournful,0,66112,0.0
+Levesque et al. (2019),375,Input,nourish,0,66112,0.0
+Levesque et al. (2019),375,Target,nourishment,0,66112,0.0
+Levesque et al. (2019),376,Input,rehearse,0,66112,0.0
+Levesque et al. (2019),376,Target,rehearsal,0,66112,0.0
+Levesque et al. (2019),377,Input,resent,1,66112,0.015125847047434656
+Levesque et al. (2019),377,Target,resentful,0,66112,0.0
+Levesque et al. (2019),378,Input,stain,0,66112,0.0
+Levesque et al. (2019),378,Target,stainless,0,66112,0.0
+Levesque et al. (2019),379,Input,timid,0,66112,0.0
+Levesque et al. (2019),379,Target,timidly,0,66112,0.0
+Gómez (2009),380,Input,music,5,66112,0.07562923523717328
+Gómez (2009),380,Target,musician,0,66112,0.0
+Gómez (2009),381,Input,popular,0,66112,0.0
+Gómez (2009),381,Target,popularity,1,66112,0.015125847047434656
+Gómez (2009),382,Input,growth,2,66112,0.030251694094869313
+Gómez (2009),382,Target,grow,2,66112,0.030251694094869313
+Gómez (2009),383,Input,slow,9,66112,0.13613262342691193
+Gómez (2009),383,Target,slowest,0,66112,0.0
+Gómez (2009),384,Input,science,5,66112,0.07562923523717328
+Gómez (2009),384,Target,scientist,1,66112,0.015125847047434656
+Gómez (2009),385,Input,four,18,66112,0.27226524685382386
+Gómez (2009),385,Target,fourth,1,66112,0.015125847047434656
+Gómez (2009),386,Input,local,3,66112,0.04537754114230397
+Gómez (2009),386,Target,locality,0,66112,0.0
+Gómez (2009),387,Input,produce,0,66112,0.0
+Gómez (2009),387,Target,production,0,66112,0.0
+Gómez (2009),388,Input,vary,0,66112,0.0
+Gómez (2009),388,Target,varied,1,66112,0.015125847047434656
+Gómez (2009),389,Input,wide,1,66112,0.015125847047434656
+Gómez (2009),389,Target,width,0,66112,0.0
+Gómez (2009),390,Input,assist,2,66112,0.030251694094869313
+Gómez (2009),390,Target,assistance,0,66112,0.0
+Gómez (2009),391,Input,calm,5,66112,0.07562923523717328
+Gómez (2009),391,Target,calmly,0,66112,0.0
+Gómez (2009),392,Input,magic,1,66112,0.015125847047434656
+Gómez (2009),392,Target,magician,0,66112,0.0
+Gómez (2009),393,Input,strong,12,66112,0.18151016456921587
+Gómez (2009),393,Target,strength,11,66112,0.1663843175217812
+Gómez (2009),394,Input,discuss,1,66112,0.015125847047434656
+Gómez (2009),394,Target,discussion,2,66112,0.030251694094869313
+Gómez (2009),395,Input,appear,2,66112,0.030251694094869313
+Gómez (2009),395,Target,appearance,0,66112,0.0
+Gómez (2009),396,Input,remark,1,66112,0.015125847047434656
+Gómez (2009),396,Target,remarkable,0,66112,0.0
+Gómez (2009),397,Input,major,11,66112,0.1663843175217812
+Gómez (2009),397,Target,majority,0,66112,0.0
+Gómez (2009),398,Input,density,1,66112,0.015125847047434656
+Gómez (2009),398,Target,dense,0,66112,0.0
+Gómez (2009),399,Input,mystery,2,66112,0.030251694094869313
+Gómez (2009),399,Target,mysterious,2,66112,0.030251694094869313
+Gómez (2009),400,Input,permit,0,66112,0.0
+Gómez (2009),400,Target,permission,2,66112,0.030251694094869313
+Gómez (2009),401,Input,jacket,1,66112,0.015125847047434656
+Gómez (2009),401,Target,jackets,0,66112,0.0
+Gómez (2009),402,Input,human,3,66112,0.04537754114230397
+Gómez (2009),402,Target,humanity,0,66112,0.0
+Gómez (2009),403,Input,skip,2,66112,0.030251694094869313
+Gómez (2009),403,Target,skipped,1,66112,0.015125847047434656
+Gómez (2009),404,Input,description,0,66112,0.0
+Gómez (2009),404,Target,describe,1,66112,0.015125847047434656
+Gómez (2009),405,Input,runner,0,66112,0.0
+Gómez (2009),405,Target,run,22,66112,0.3327686350435624
+Gómez (2009),406,Input,cloud,1,66112,0.015125847047434656
+Gómez (2009),406,Target,cloudy,1,66112,0.015125847047434656
+McCutchen & Logan (2011),407,Input,four,18,66112,0.27226524685382386
+McCutchen & Logan (2011),407,Target,fourth,1,66112,0.015125847047434656
+McCutchen & Logan (2011),408,Input,ill,143,66112,2.1629961277831558
+McCutchen & Logan (2011),408,Target,illness,0,66112,0.0
+McCutchen & Logan (2011),409,Input,allow,6,66112,0.09075508228460794
+McCutchen & Logan (2011),409,Target,allowance,1,66112,0.015125847047434656
+McCutchen & Logan (2011),410,Input,strong,12,66112,0.18151016456921587
+McCutchen & Logan (2011),410,Target,strength,11,66112,0.1663843175217812
+McCutchen & Logan (2011),411,Input,art,2,66112,0.030251694094869313
+McCutchen & Logan (2011),411,Target,artist,2,66112,0.030251694094869313
+McCutchen & Logan (2011),412,Input,quick,9,66112,0.13613262342691193
+McCutchen & Logan (2011),412,Target,quickly,8,66112,0.12100677637947725
+McCutchen & Logan (2011),413,Input,victory,5,66112,0.07562923523717328
+McCutchen & Logan (2011),413,Target,victorious,0,66112,0.0
+McCutchen & Logan (2011),414,Input,assume,5,66112,0.07562923523717328
+McCutchen & Logan (2011),414,Target,assumption,0,66112,0.0
+McCutchen & Logan (2011),415,Input,music,5,66112,0.07562923523717328
+McCutchen & Logan (2011),415,Target,musician,0,66112,0.0
+McCutchen & Logan (2011),416,Input,care,21,66112,0.3176427879961278
+McCutchen & Logan (2011),416,Target,careful,4,66112,0.060503388189738626
+McCutchen & Logan (2011),417,Input,sad,5,66112,0.07562923523717328
+McCutchen & Logan (2011),417,Target,sadness,1,66112,0.015125847047434656
+McCutchen & Logan (2011),418,Input,decide,2,66112,0.030251694094869313
+McCutchen & Logan (2011),418,Target,decision,3,66112,0.04537754114230397
+McCutchen & Logan (2011),419,Input,swim,2,66112,0.030251694094869313
+McCutchen & Logan (2011),419,Target,swimmer,0,66112,0.0
+McCutchen & Logan (2011),420,Input,examine,0,66112,0.0
+McCutchen & Logan (2011),420,Target,examination,0,66112,0.0
+McCutchen & Logan (2011),421,Input,nerve,5,66112,0.07562923523717328
+McCutchen & Logan (2011),421,Target,nervous,10,66112,0.15125847047434657
+McCutchen & Logan (2011),422,Input,trick,9,66112,0.13613262342691193
+McCutchen & Logan (2011),422,Target,tricky,0,66112,0.0
+McCutchen & Logan (2011),423,Input,five,39,66112,0.5899080348499516
+McCutchen & Logan (2011),423,Target,fifth,1,66112,0.015125847047434656
+McCutchen & Logan (2011),424,Input,absent,0,66112,0.0
+McCutchen & Logan (2011),424,Target,absence,1,66112,0.015125847047434656
+McCutchen & Logan (2011),425,Input,win,4,66112,0.060503388189738626
+McCutchen & Logan (2011),425,Target,winner,1,66112,0.015125847047434656
+McCutchen & Logan (2011),426,Input,distant,1,66112,0.015125847047434656
+McCutchen & Logan (2011),426,Target,distance,1,66112,0.015125847047434656
+McCutchen & Logan (2011),427,Input,science,5,66112,0.07562923523717328
+McCutchen & Logan (2011),427,Target,scientist,1,66112,0.015125847047434656
+McCutchen & Logan (2011),428,Input,deep,3,66112,0.04537754114230397
+McCutchen & Logan (2011),428,Target,depth,0,66112,0.0
+McCutchen & Logan (2011),429,Input,pain,7,66112,0.10588092933204259
+McCutchen & Logan (2011),429,Target,painful,2,66112,0.030251694094869313
+McCutchen & Logan (2011),430,Input,think,233,66112,3.5243223620522746
+McCutchen & Logan (2011),430,Target,thought,51,66112,0.7714181994191674
+McCutchen & Logan (2011),431,Input,accept,14,66112,0.21176185866408517
+McCutchen & Logan (2011),431,Target,acceptable,1,66112,0.015125847047434656
+McCutchen & Logan (2011),432,Input,comfort,1,66112,0.015125847047434656
+McCutchen & Logan (2011),432,Target,comfortable,2,66112,0.030251694094869313
+McCutchen & Logan (2011),433,Input,sign,7,66112,0.10588092933204259
+McCutchen & Logan (2011),433,Target,signature,0,66112,0.0
+McCutchen & Logan (2011),434,Input,long,45,66112,0.6806631171345595
+McCutchen & Logan (2011),434,Target,length,1,66112,0.015125847047434656
+McCutchen & Logan (2011),435,Input,know,367,66112,5.5511858664085185
+McCutchen & Logan (2011),435,Target,knowledge,3,66112,0.04537754114230397
+McCutchen & Logan (2011),436,Input,excel,0,66112,0.0
+McCutchen & Logan (2011),436,Target,excellent,9,66112,0.13613262342691193
+Roth (2007),437,Input,walk,14,66112,0.21176185866408517
+Roth (2007),437,Target,walked,3,66112,0.04537754114230397
+Roth (2007),438,Input,sneaker,0,66112,0.0
+Roth (2007),438,Target,sneakers,0,66112,0.0
+Roth (2007),439,Input,low,5,66112,0.07562923523717328
+Roth (2007),439,Target,lower,1,66112,0.015125847047434656
+Roth (2007),440,Input,stood,2,66112,0.030251694094869313
+Roth (2007),440,Target,stand,17,66112,0.25713939980638917
+Roth (2007),441,Input,lose,11,66112,0.1663843175217812
+Roth (2007),441,Target,lost,13,66112,0.19663601161665054
+Roth (2007),442,Input,say,128,66112,1.936108422071636
+Roth (2007),442,Target,said,84,66112,1.270571151984511
+Roth (2007),443,Input,child,20,66112,0.30251694094869314
+Roth (2007),443,Target,children,7,66112,0.10588092933204259
+Roth (2007),444,Input,kept,3,66112,0.04537754114230397
+Roth (2007),444,Target,keep,38,66112,0.574782187802517
+Roth (2007),445,Input,taller,1,66112,0.015125847047434656
+Roth (2007),445,Target,tall,2,66112,0.030251694094869313
+Roth (2007),446,Input,person,10,66112,0.15125847047434657
+Roth (2007),446,Target,people,88,66112,1.3310745401742496
+Roth (2007),447,Input,fun,14,66112,0.21176185866408517
+Roth (2007),447,Target,funny,17,66112,0.25713939980638917
+Roth (2007),448,Input,bake,0,66112,0.0
+Roth (2007),448,Target,baker,0,66112,0.0
+Roth (2007),449,Input,sun,10,66112,0.15125847047434657
+Roth (2007),449,Target,sunny,0,66112,0.0
+Roth (2007),450,Input,work,48,66112,0.7260406582768635
+Roth (2007),450,Target,worker,23,66112,0.34789448209099705
+Roth (2007),451,Input,deep,3,66112,0.04537754114230397
+Roth (2007),451,Target,depth,0,66112,0.0
+Roth (2007),452,Input,action,5,66112,0.07562923523717328
+Roth (2007),452,Target,act,12,66112,0.18151016456921587
+Roth (2007),453,Input,art,2,66112,0.030251694094869313
+Roth (2007),453,Target,artist,2,66112,0.030251694094869313
+Roth (2007),454,Input,wide,1,66112,0.015125847047434656
+Roth (2007),454,Target,width,0,66112,0.0
+Roth (2007),455,Input,strength,11,66112,0.1663843175217812
+Roth (2007),455,Target,strong,12,66112,0.18151016456921587
+Roth (2007),456,Input,music,5,66112,0.07562923523717328
+Roth (2007),456,Target,musician,0,66112,0.0
+McCutchen et al. (2009),457,Input,four,18,66112,0.27226524685382386
+McCutchen et al. (2009),457,Target,fourth,1,66112,0.015125847047434656
+McCutchen et al. (2009),458,Input,ill,143,66112,2.1629961277831558
+McCutchen et al. (2009),458,Target,illness,0,66112,0.0
+McCutchen et al. (2009),459,Input,allow,6,66112,0.09075508228460794
+McCutchen et al. (2009),459,Target,allowance,1,66112,0.015125847047434656
+McCutchen et al. (2009),460,Input,strong,12,66112,0.18151016456921587
+McCutchen et al. (2009),460,Target,strength,11,66112,0.1663843175217812
+McCutchen et al. (2009),461,Input,art,2,66112,0.030251694094869313
+McCutchen et al. (2009),461,Target,artist,2,66112,0.030251694094869313
+McCutchen et al. (2009),462,Input,quick,9,66112,0.13613262342691193
+McCutchen et al. (2009),462,Target,quickly,8,66112,0.12100677637947725
+McCutchen et al. (2009),463,Input,victory,5,66112,0.07562923523717328
+McCutchen et al. (2009),463,Target,victorious,0,66112,0.0
+McCutchen et al. (2009),464,Input,assume,5,66112,0.07562923523717328
+McCutchen et al. (2009),464,Target,assumption,0,66112,0.0
+McCutchen et al. (2009),465,Input,music,5,66112,0.07562923523717328
+McCutchen et al. (2009),465,Target,musician,0,66112,0.0
+McCutchen et al. (2009),466,Input,care,21,66112,0.3176427879961278
+McCutchen et al. (2009),466,Target,careful,4,66112,0.060503388189738626
+McCutchen et al. (2009),467,Input,sad,5,66112,0.07562923523717328
+McCutchen et al. (2009),467,Target,sadness,1,66112,0.015125847047434656
+McCutchen et al. (2009),468,Input,decide,2,66112,0.030251694094869313
+McCutchen et al. (2009),468,Target,decision,3,66112,0.04537754114230397
+McCutchen et al. (2009),469,Input,swim,2,66112,0.030251694094869313
+McCutchen et al. (2009),469,Target,swimmer,0,66112,0.0
+McCutchen et al. (2009),470,Input,examine,0,66112,0.0
+McCutchen et al. (2009),470,Target,examination,0,66112,0.0
+McCutchen et al. (2009),471,Input,nerve,5,66112,0.07562923523717328
+McCutchen et al. (2009),471,Target,nervous,10,66112,0.15125847047434657
+McCutchen et al. (2009),472,Input,trick,9,66112,0.13613262342691193
+McCutchen et al. (2009),472,Target,tricky,0,66112,0.0
+McCutchen et al. (2009),473,Input,five,39,66112,0.5899080348499516
+McCutchen et al. (2009),473,Target,fifth,1,66112,0.015125847047434656
+McCutchen et al. (2009),474,Input,absent,0,66112,0.0
+McCutchen et al. (2009),474,Target,absence,1,66112,0.015125847047434656
+McCutchen et al. (2009),475,Input,win,4,66112,0.060503388189738626
+McCutchen et al. (2009),475,Target,winner,1,66112,0.015125847047434656
+McCutchen et al. (2009),476,Input,distant,1,66112,0.015125847047434656
+McCutchen et al. (2009),476,Target,distance,1,66112,0.015125847047434656
+McCutchen et al. (2009),477,Input,science,5,66112,0.07562923523717328
+McCutchen et al. (2009),477,Target,scientist,1,66112,0.015125847047434656
+McCutchen et al. (2009),478,Input,deep,3,66112,0.04537754114230397
+McCutchen et al. (2009),478,Target,depth,0,66112,0.0
+McCutchen et al. (2009),479,Input,pain,7,66112,0.10588092933204259
+McCutchen et al. (2009),479,Target,painful,2,66112,0.030251694094869313
+McCutchen et al. (2009),480,Input,think,233,66112,3.5243223620522746
+McCutchen et al. (2009),480,Target,thought,51,66112,0.7714181994191674
+McCutchen et al. (2009),481,Input,accept,14,66112,0.21176185866408517
+McCutchen et al. (2009),481,Target,acceptable,1,66112,0.015125847047434656
+McCutchen et al. (2009),482,Input,comfort,1,66112,0.015125847047434656
+McCutchen et al. (2009),482,Target,comfortable,2,66112,0.030251694094869313
+McCutchen et al. (2009),483,Input,sign,7,66112,0.10588092933204259
+McCutchen et al. (2009),483,Target,signature,0,66112,0.0
+McCutchen et al. (2009),484,Input,long,45,66112,0.6806631171345595
+McCutchen et al. (2009),484,Target,length,1,66112,0.015125847047434656
+McCutchen et al. (2009),485,Input,know,367,66112,5.5511858664085185
+McCutchen et al. (2009),485,Target,knowledge,3,66112,0.04537754114230397
+McCutchen et al. (2009),486,Input,excel,0,66112,0.0
+McCutchen et al. (2009),486,Target,excellent,9,66112,0.13613262342691193
+Deacon et al. (2018),487,Input,behaves,0,66112,0.0
+Deacon et al. (2018),487,Target,bravely,0,66112,0.0
+Deacon et al. (2018),488,Input,wise,2,66112,0.030251694094869313
+Deacon et al. (2018),488,Target,wisely,0,66112,0.0
+Deacon et al. (2018),489,Input,polite,7,66112,0.10588092933204259
+Deacon et al. (2018),489,Target,politely,1,66112,0.015125847047434656
+Deacon et al. (2018),490,Input,dust,1,66112,0.015125847047434656
+Deacon et al. (2018),490,Target,dusty,0,66112,0.0
+Deacon et al. (2018),491,Input,mist,0,66112,0.0
+Deacon et al. (2018),491,Target,misty,0,66112,0.0
+Deacon et al. (2018),492,Input,frost,0,66112,0.0
+Deacon et al. (2018),492,Target,frosty,0,66112,0.0
+Deacon et al. (2018),493,Input,paint,5,66112,0.07562923523717328
+Deacon et al. (2018),493,Target,painter,1,66112,0.015125847047434656
+Deacon et al. (2018),494,Input,dance,21,66112,0.3176427879961278
+Deacon et al. (2018),494,Target,dancer,1,66112,0.015125847047434656
+Deacon et al. (2018),495,Input,juggle,0,66112,0.0
+Deacon et al. (2018),495,Target,juggler,0,66112,0.0
+Deacon et al. (2018),496,Input,ghost,0,66112,0.0
+Deacon et al. (2018),496,Target,ghostie,0,66112,0.0
+Deacon et al. (2018),497,Input,beast,0,66112,0.0
+Deacon et al. (2018),497,Target,beastie,0,66112,0.0
+Deacon et al. (2018),498,Input,bird,6,66112,0.09075508228460794
+Deacon et al. (2018),498,Target,birdy,0,66112,0.0
+Deacon et al. (2018),499,Input,collect,1,66112,0.015125847047434656
+Deacon et al. (2018),499,Target,collection,1,66112,0.015125847047434656
+Deacon et al. (2018),500,Input,invent,2,66112,0.030251694094869313
+Deacon et al. (2018),500,Target,invention,1,66112,0.015125847047434656
+Deacon et al. (2018),501,Input,suggest,4,66112,0.060503388189738626
+Deacon et al. (2018),501,Target,suggestion,1,66112,0.015125847047434656
+Deacon et al. (2018),502,Input,move,25,66112,0.3781461761858664
+Deacon et al. (2018),502,Target,movement,2,66112,0.030251694094869313
+Deacon et al. (2018),503,Input,agree,2,66112,0.030251694094869313
+Deacon et al. (2018),503,Target,agreement,3,66112,0.04537754114230397
+Deacon et al. (2018),504,Input,argue,2,66112,0.030251694094869313
+Deacon et al. (2018),504,Target,argument,1,66112,0.015125847047434656
+Levesque et al. (2017),505,Input,warm,6,66112,0.09075508228460794
+Levesque et al. (2017),505,Target,warmth,0,66112,0.0
+Levesque et al. (2017),506,Input,growth,2,66112,0.030251694094869313
+Levesque et al. (2017),506,Target,grow,2,66112,0.030251694094869313
+Levesque et al. (2017),507,Input,permit,0,66112,0.0
+Levesque et al. (2017),507,Target,permission,2,66112,0.030251694094869313
+Levesque et al. (2017),508,Input,variable,0,66112,0.0
+Levesque et al. (2017),508,Target,vary,0,66112,0.0
+Levesque et al. (2017),509,Input,appear,2,66112,0.030251694094869313
+Levesque et al. (2017),509,Target,appearance,0,66112,0.0
+Levesque et al. (2017),510,Input,density,1,66112,0.015125847047434656
+Levesque et al. (2017),510,Target,dense,0,66112,0.0
+Levesque et al. (2017),511,Input,four,18,66112,0.27226524685382386
+Levesque et al. (2017),511,Target,fourth,1,66112,0.015125847047434656
+Levesque et al. (2017),512,Input,famous,4,66112,0.060503388189738626
+Levesque et al. (2017),512,Target,fame,0,66112,0.0
+Levesque et al. (2017),513,Input,protect,2,66112,0.030251694094869313
+Levesque et al. (2017),513,Target,protection,0,66112,0.0
+Levesque et al. (2017),514,Input,fifth,1,66112,0.015125847047434656
+Levesque et al. (2017),514,Target,five,39,66112,0.5899080348499516
+Levesque et al. (2017),515,Input,expand,1,66112,0.015125847047434656
+Levesque et al. (2017),515,Target,expansion,0,66112,0.0
+Levesque et al. (2017),516,Input,strength,11,66112,0.1663843175217812
+Levesque et al. (2017),516,Target,strong,12,66112,0.18151016456921587
+Levesque et al. (2017),517,Input,reason,15,66112,0.22688770571151984
+Levesque et al. (2017),517,Target,reasonable,3,66112,0.04537754114230397
+Levesque et al. (2017),518,Input,popularity,1,66112,0.015125847047434656
+Levesque et al. (2017),518,Target,popular,0,66112,0.0
+Levesque et al. (2017),519,Input,deep,3,66112,0.04537754114230397
+Levesque et al. (2017),519,Target,depth,0,66112,0.0
+Levesque et al. (2017),520,Input,publicity,1,66112,0.015125847047434656
+Levesque et al. (2017),520,Target,public,2,66112,0.030251694094869313
+Levesque et al. (2017),521,Input,long,45,66112,0.6806631171345595
+Levesque et al. (2017),521,Target,length,1,66112,0.015125847047434656
+Levesque et al. (2017),522,Input,originality,0,66112,0.0
+Levesque et al. (2017),522,Target,original,2,66112,0.030251694094869313
+Levesque et al. (2017),523,Input,absorb,0,66112,0.0
+Levesque et al. (2017),523,Target,absorption,0,66112,0.0
+Levesque et al. (2017),524,Input,courageous,0,66112,0.0
+Levesque et al. (2017),524,Target,courage,10,66112,0.15125847047434657
+Levesque et al. (2017),525,Input,swim,2,66112,0.030251694094869313
+Levesque et al. (2017),525,Target,swimmer,0,66112,0.0
+Levesque et al. (2017),526,Input,dangerous,7,66112,0.10588092933204259
+Levesque et al. (2017),526,Target,danger,4,66112,0.060503388189738626
+Levesque et al. (2017),527,Input,wash,1,66112,0.015125847047434656
+Levesque et al. (2017),527,Target,washer,0,66112,0.0
+Levesque et al. (2017),528,Input,baker,0,66112,0.0
+Levesque et al. (2017),528,Target,bake,0,66112,0.0
+Levesque et al. (2017),529,Input,assist,2,66112,0.030251694094869313
+Levesque et al. (2017),529,Target,assistance,0,66112,0.0
+Levesque et al. (2017),530,Input,guidance,1,66112,0.015125847047434656
+Levesque et al. (2017),530,Target,guide,2,66112,0.030251694094869313
+Levesque et al. (2017),531,Input,produce,0,66112,0.0
+Levesque et al. (2017),531,Target,production,0,66112,0.0
+Levesque et al. (2017),532,Input,reliable,4,66112,0.060503388189738626
+Levesque et al. (2017),532,Target,rely,1,66112,0.015125847047434656
+Levesque et al. (2017),533,Input,teach,8,66112,0.12100677637947725
+Levesque et al. (2017),533,Target,teacher,5,66112,0.07562923523717328
+Levesque et al. (2017),534,Input,acceptance,0,66112,0.0
+Levesque et al. (2017),534,Target,accept,14,66112,0.21176185866408517
+Levesque et al. (2017),535,Input,profit,0,66112,0.0
+Levesque et al. (2017),535,Target,profitable,0,66112,0.0
+Levesque et al. (2017),536,Input,continuous,0,66112,0.0
+Levesque et al. (2017),536,Target,continue,4,66112,0.060503388189738626
+Levesque et al. (2017),537,Input,major,11,66112,0.1663843175217812
+Levesque et al. (2017),537,Target,majority,0,66112,0.0
+Levesque et al. (2017),538,Input,difference,8,66112,0.12100677637947725
+Levesque et al. (2017),538,Target,differ,0,66112,0.0
+Levesque et al. (2017),539,Input,remark,1,66112,0.015125847047434656
+Levesque et al. (2017),539,Target,remarkable,0,66112,0.0
+Levesque et al. (2017),540,Input,reduction,0,66112,0.0
+Levesque et al. (2017),540,Target,reduce,0,66112,0.0
+Levesque et al. (2017),541,Input,revise,0,66112,0.0
+Levesque et al. (2017),541,Target,revision,0,66112,0.0
+Levesque et al. (2017),542,Input,runner,0,66112,0.0
+Levesque et al. (2017),542,Target,run,22,66112,0.3327686350435624
+Levesque et al. (2017),543,Input,equal,0,66112,0.0
+Levesque et al. (2017),543,Target,equality,1,66112,0.015125847047434656
+Levesque et al. (2017),544,Input,election,1,66112,0.015125847047434656
+Levesque et al. (2017),544,Target,elect,0,66112,0.0
+Levesque et al. (2017),545,Input,express,0,66112,0.0
+Levesque et al. (2017),545,Target,expression,1,66112,0.015125847047434656
+Levesque et al. (2017),546,Input,width,0,66112,0.0
+Levesque et al. (2017),546,Target,wide,1,66112,0.015125847047434656
+Levesque et al. (2017),547,Input,perform,1,66112,0.015125847047434656
+Levesque et al. (2017),547,Target,performance,0,66112,0.0
+Levesque et al. (2017),548,Input,dryer,0,66112,0.0
+Levesque et al. (2017),548,Target,dry,5,66112,0.07562923523717328
+Levesque et al. (2017),549,Input,adventure,5,66112,0.07562923523717328
+Levesque et al. (2017),549,Target,adventurous,0,66112,0.0
+Levesque et al. (2017),550,Input,admission,0,66112,0.0
+Levesque et al. (2017),550,Target,admit,3,66112,0.04537754114230397
+Levesque et al. (2017),551,Input,active,1,66112,0.015125847047434656
+Levesque et al. (2017),551,Target,activity,1,66112,0.015125847047434656
+Levesque et al. (2017),552,Input,decision,3,66112,0.04537754114230397
+Levesque et al. (2017),552,Target,decide,2,66112,0.030251694094869313
+Levesque et al. (2017),553,Input,humor,3,66112,0.04537754114230397
+Levesque et al. (2017),553,Target,humorous,0,66112,0.0
+Levesque et al. (2017),554,Input,division,0,66112,0.0
+Levesque et al. (2017),554,Target,divide,0,66112,0.0
+Levesque et al. (2017),555,Input,human,3,66112,0.04537754114230397
+Levesque et al. (2017),555,Target,humanity,0,66112,0.0
+Levesque et al. (2017),556,Input,agreeable,0,66112,0.0
+Levesque et al. (2017),556,Target,agree,2,66112,0.030251694094869313
+Levesque et al. (2017),557,Input,glory,2,66112,0.030251694094869313
+Levesque et al. (2017),557,Target,glorious,1,66112,0.015125847047434656
+Levesque et al. (2017),558,Input,discussion,2,66112,0.030251694094869313
+Levesque et al. (2017),558,Target,discuss,1,66112,0.015125847047434656
+Levesque et al. (2017),559,Input,mystery,2,66112,0.030251694094869313
+Levesque et al. (2017),559,Target,mysterious,2,66112,0.030251694094869313
+Levesque et al. (2017),560,Input,description,0,66112,0.0
+Levesque et al. (2017),560,Target,describe,1,66112,0.015125847047434656
+Tong et al. (2013),561,Input,strong,12,66112,0.18151016456921587
+Tong et al. (2013),561,Target,strongest,1,66112,0.015125847047434656
+Tong et al. (2013),562,Input,chill,1,66112,0.015125847047434656
+Tong et al. (2013),562,Target,chilly,0,66112,0.0
+Tong et al. (2013),563,Input,write,14,66112,0.21176185866408517
+Tong et al. (2013),563,Target,writer,5,66112,0.07562923523717328
+Tong et al. (2013),564,Input,curl,0,66112,0.0
+Tong et al. (2013),564,Target,curly,0,66112,0.0
+Tong et al. (2013),565,Input,store,1,66112,0.015125847047434656
+Tong et al. (2013),565,Target,storage,0,66112,0.0
+Tong et al. (2013),566,Input,bite,7,66112,0.10588092933204259
+Tong et al. (2013),566,Target,biting,1,66112,0.015125847047434656
+Tong et al. (2013),567,Input,goose,2,66112,0.030251694094869313
+Tong et al. (2013),567,Target,geese,0,66112,0.0
+Tong et al. (2013),568,Input,obedient,1,66112,0.015125847047434656
+Tong et al. (2013),568,Target,obedience,0,66112,0.0
+Tong et al. (2013),569,Input,strong,12,66112,0.18151016456921587
+Tong et al. (2013),569,Target,strength,11,66112,0.1663843175217812
+Tong et al. (2013),570,Input,clean,1,66112,0.015125847047434656
+Tong et al. (2013),570,Target,cleaner,0,66112,0.0
+Tong et al. (2013),571,Input,deep,3,66112,0.04537754114230397
+Tong et al. (2013),571,Target,depth,0,66112,0.0
+Tong et al. (2013),572,Input,mouse,0,66112,0.0
+Tong et al. (2013),572,Target,mice,1,66112,0.015125847047434656
+Tong et al. (2013),573,Input,scratch,0,66112,0.0
+Tong et al. (2013),573,Target,scratched,0,66112,0.0
+Tong et al. (2013),574,Input,true,26,66112,0.39327202323330107
+Tong et al. (2013),574,Target,truth,6,66112,0.09075508228460794
+Tong et al. (2013),575,Input,farm,9,66112,0.13613262342691193
+Tong et al. (2013),575,Target,farmer,0,66112,0.0
+Tong et al. (2013),576,Input,mild,0,66112,0.0
+Tong et al. (2013),576,Target,mildly,0,66112,0.0
+Tong et al. (2013),577,Input,sing,1,66112,0.015125847047434656
+Tong et al. (2013),577,Target,sang,1,66112,0.015125847047434656
+Tong et al. (2013),578,Input,science,5,66112,0.07562923523717328
+Tong et al. (2013),578,Target,scientist,1,66112,0.015125847047434656
+Tong et al. (2013),579,Input,shrink,0,66112,0.0
+Tong et al. (2013),579,Target,shrinkage,0,66112,0.0
+Tong et al. (2013),580,Input,bold,2,66112,0.030251694094869313
+Tong et al. (2013),580,Target,boldly,0,66112,0.0
+Tong et al. (2013),581,Input,fly,16,66112,0.2420135527589545
+Tong et al. (2013),581,Target,flying,3,66112,0.04537754114230397
+Tong et al. (2011),582,Input,walk,14,66112,0.21176185866408517
+Tong et al. (2011),582,Target,walked,3,66112,0.04537754114230397
+Tong et al. (2011),583,Input,sneaker,0,66112,0.0
+Tong et al. (2011),583,Target,sneakers,0,66112,0.0
+Tong et al. (2011),584,Input,low,5,66112,0.07562923523717328
+Tong et al. (2011),584,Target,lower,1,66112,0.015125847047434656
+Tong et al. (2011),585,Input,stood,2,66112,0.030251694094869313
+Tong et al. (2011),585,Target,stand,17,66112,0.25713939980638917
+Tong et al. (2011),586,Input,lose,11,66112,0.1663843175217812
+Tong et al. (2011),586,Target,lost,13,66112,0.19663601161665054
+Tong et al. (2011),587,Input,say,128,66112,1.936108422071636
+Tong et al. (2011),587,Target,said,84,66112,1.270571151984511
+Tong et al. (2011),588,Input,child,20,66112,0.30251694094869314
+Tong et al. (2011),588,Target,children,7,66112,0.10588092933204259
+Tong et al. (2011),589,Input,kept,3,66112,0.04537754114230397
+Tong et al. (2011),589,Target,keep,38,66112,0.574782187802517
+Tong et al. (2011),590,Input,taller,1,66112,0.015125847047434656
+Tong et al. (2011),590,Target,tall,2,66112,0.030251694094869313
+Tong et al. (2011),591,Input,fun,14,66112,0.21176185866408517
+Tong et al. (2011),591,Target,funny,17,66112,0.25713939980638917
+Tong et al. (2011),592,Input,bake,0,66112,0.0
+Tong et al. (2011),592,Target,baker,0,66112,0.0
+Tong et al. (2011),593,Input,sun,10,66112,0.15125847047434657
+Tong et al. (2011),593,Target,sunny,0,66112,0.0
+Tong et al. (2011),594,Input,work,48,66112,0.7260406582768635
+Tong et al. (2011),594,Target,worker,23,66112,0.34789448209099705
+Tong et al. (2011),595,Input,deep,3,66112,0.04537754114230397
+Tong et al. (2011),595,Target,depth,0,66112,0.0
+Tong et al. (2011),596,Input,action,5,66112,0.07562923523717328
+Tong et al. (2011),596,Target,act,12,66112,0.18151016456921587
+Tong et al. (2011),597,Input,art,2,66112,0.030251694094869313
+Tong et al. (2011),597,Target,artist,2,66112,0.030251694094869313
+Tong et al. (2011),598,Input,wide,1,66112,0.015125847047434656
+Tong et al. (2011),598,Target,width,0,66112,0.0
+Mahony et al. (2000),599,Input,person,10,66112,0.15125847047434657
+Mahony et al. (2000),599,Target,personal,5,66112,0.07562923523717328
+Mahony et al. (2000),600,Input,allow,6,66112,0.09075508228460794
+Mahony et al. (2000),600,Target,allowance,1,66112,0.015125847047434656
+Mahony et al. (2000),601,Input,beauty,2,66112,0.030251694094869313
+Mahony et al. (2000),601,Target,beautiful,21,66112,0.3176427879961278
+Mahony et al. (2000),602,Input,region,0,66112,0.0
+Mahony et al. (2000),602,Target,regional,0,66112,0.0
+Mahony et al. (2000),603,Input,bag,3,66112,0.04537754114230397
+Mahony et al. (2000),603,Target,baggage,0,66112,0.0
+Mahony et al. (2000),604,Input,pity,3,66112,0.04537754114230397
+Mahony et al. (2000),604,Target,pitiful,0,66112,0.0
+Mahony et al. (2000),605,Input,parent,1,66112,0.015125847047434656
+Mahony et al. (2000),605,Target,parental,0,66112,0.0
+Mahony et al. (2000),606,Input,history,14,66112,0.21176185866408517
+Mahony et al. (2000),606,Target,historic,0,66112,0.0
+Mahony et al. (2000),607,Input,atom,0,66112,0.0
+Mahony et al. (2000),607,Target,atomic,4,66112,0.060503388189738626
+Mahony et al. (2000),608,Input,superior,1,66112,0.015125847047434656
+Mahony et al. (2000),608,Target,superiority,0,66112,0.0
+Mahony et al. (2000),609,Input,poet,3,66112,0.04537754114230397
+Mahony et al. (2000),609,Target,poetic,1,66112,0.015125847047434656
+Mahony et al. (2000),610,Input,participate,0,66112,0.0
+Mahony et al. (2000),610,Target,participation,0,66112,0.0
+Mahony et al. (2000),611,Input,deep,3,66112,0.04537754114230397
+Mahony et al. (2000),611,Target,depth,0,66112,0.0
+Mahony et al. (2000),612,Input,sincere,0,66112,0.0
+Mahony et al. (2000),612,Target,sincerity,0,66112,0.0
+Mahony et al. (2000),613,Input,supervise,0,66112,0.0
+Mahony et al. (2000),613,Target,supervision,0,66112,0.0
+Mahony et al. (2000),614,Input,meter,0,66112,0.0
+Mahony et al. (2000),614,Target,metric,0,66112,0.0
+Mahony et al. (2000),615,Input,nature,5,66112,0.07562923523717328
+Mahony et al. (2000),615,Target,natural,8,66112,0.12100677637947725
+Mahony et al. (2000),616,Input,add,2,66112,0.030251694094869313
+Mahony et al. (2000),616,Target,addition,0,66112,0.0
+Mahony et al. (2000),617,Input,associate,0,66112,0.0
+Mahony et al. (2000),617,Target,association,0,66112,0.0
+Mahony et al. (2000),618,Input,concentrate,1,66112,0.015125847047434656
+Mahony et al. (2000),618,Target,concentration,0,66112,0.0
+Mahony et al. (2000),619,Input,divide,0,66112,0.0
+Mahony et al. (2000),619,Target,division,0,66112,0.0
+Mahony et al. (2000),620,Input,relate,0,66112,0.0
+Mahony et al. (2000),620,Target,relation,0,66112,0.0
+Mahony et al. (2000),621,Input,decide,2,66112,0.030251694094869313
+Mahony et al. (2000),621,Target,decision,3,66112,0.04537754114230397
+Mahony et al. (2000),622,Input,reduce,0,66112,0.0
+Mahony et al. (2000),622,Target,reduction,0,66112,0.0
+Mahony et al. (2000),623,Input,sign,7,66112,0.10588092933204259
+Mahony et al. (2000),623,Target,signature,0,66112,0.0
+Mahony et al. (2000),624,Input,resign,0,66112,0.0
+Mahony et al. (2000),624,Target,resignation,0,66112,0.0
+Mahony et al. (2000),625,Input,bomb,8,66112,0.12100677637947725
+Mahony et al. (2000),625,Target,bombard,0,66112,0.0
+Mahony et al. (2000),626,Input,crumb,0,66112,0.0
+Mahony et al. (2000),626,Target,crumble,0,66112,0.0
+Mahony et al. (2000),627,Input,sign,7,66112,0.10588092933204259
+Mahony et al. (2000),627,Target,signal,2,66112,0.030251694094869313
+Mahony et al. (2000),628,Input,knowledge,3,66112,0.04537754114230397
+Mahony et al. (2000),628,Target,acknowledge,0,66112,0.0
+Wolter & Pike (2015),629,Input,cook,4,66112,0.060503388189738626
+Wolter & Pike (2015),629,Target,cookery,0,66112,0.0
+Wolter & Pike (2015),630,Input,equalize,0,66112,0.0
+Wolter & Pike (2015),630,Target,equalize,0,66112,0.0
+Wolter & Pike (2015),631,Input,odd,3,66112,0.04537754114230397
+Wolter & Pike (2015),631,Target,oddity,0,66112,0.0
+Wolter & Pike (2015),632,Input,odor,0,66112,0.0
+Wolter & Pike (2015),632,Target,odorous,0,66112,0.0
+Wolter & Pike (2015),633,Input,puzzle,0,66112,0.0
+Wolter & Pike (2015),633,Target,puzzlement,0,66112,0.0
+Wolter & Pike (2015),634,Input,secret,18,66112,0.27226524685382386
+Wolter & Pike (2015),634,Target,secretive,0,66112,0.0
+Wolter & Pike (2015),635,Input,wish,31,66112,0.4689012584704743
+Wolter & Pike (2015),635,Target,wishful,0,66112,0.0
+Wolter & Pike (2015),636,Input,ocean,1,66112,0.015125847047434656
+Wolter & Pike (2015),636,Target,oceanaut,0,66112,0.0
+Wolter & Pike (2015),637,Input,yellow,5,66112,0.07562923523717328
+Wolter & Pike (2015),637,Target,yellowing,0,66112,0.0
+Wolter & Pike (2015),638,Input,cover,0,66112,0.0
+Wolter & Pike (2015),638,Target,coverlet,0,66112,0.0
+Wolter & Pike (2015),639,Input,crazy,23,66112,0.34789448209099705
+Wolter & Pike (2015),639,Target,craziness,0,66112,0.0
+Wolter & Pike (2015),640,Input,pay,16,66112,0.2420135527589545
+Wolter & Pike (2015),640,Target,payee,0,66112,0.0
+Wolter & Pike (2015),641,Input,touch,11,66112,0.1663843175217812
+Wolter & Pike (2015),641,Target,touchily,0,66112,0.0
+Wolter & Pike (2015),642,Input,game,4,66112,0.060503388189738626
+Wolter & Pike (2015),642,Target,gaming,0,66112,0.0
+Wolter & Pike (2015),643,Input,guess,40,66112,0.6050338818973863
+Wolter & Pike (2015),643,Target,guesser,0,66112,0.0
+Wolter & Pike (2015),644,Input,age,3,66112,0.04537754114230397
+Wolter & Pike (2015),644,Target,ageist,0,66112,0.0
+Nagy et al. (2003),645,Input,climber,0,66112,0.0
+Nagy et al. (2003),645,Target,climb,4,66112,0.060503388189738626
+Nagy et al. (2003),646,Input,personal,5,66112,0.07562923523717328
+Nagy et al. (2003),646,Target,person,10,66112,0.15125847047434657
+Nagy et al. (2003),647,Input,sunny,0,66112,0.0
+Nagy et al. (2003),647,Target,sun,10,66112,0.15125847047434657
+Nagy et al. (2003),648,Input,flight,0,66112,0.0
+Nagy et al. (2003),648,Target,fly,16,66112,0.2420135527589545
+Nagy et al. (2003),649,Input,relative,0,66112,0.0
+Nagy et al. (2003),649,Target,relate,0,66112,0.0
+Nagy et al. (2003),650,Input,rainy,1,66112,0.015125847047434656
+Nagy et al. (2003),650,Target,rain,6,66112,0.09075508228460794
+Nagy et al. (2003),651,Input,depth,0,66112,0.0
+Nagy et al. (2003),651,Target,deep,3,66112,0.04537754114230397
+Nagy et al. (2003),652,Input,battle,5,66112,0.07562923523717328
+Nagy et al. (2003),652,Target,bat,6,66112,0.09075508228460794
+Nagy et al. (2003),653,Input,reasonable,3,66112,0.04537754114230397
+Nagy et al. (2003),653,Target,reason,15,66112,0.22688770571151984
+Nagy et al. (2003),654,Input,adorable,0,66112,0.0
+Nagy et al. (2003),654,Target,adore,0,66112,0.0
+Nagy et al. (2003),655,Input,national,6,66112,0.09075508228460794
+Nagy et al. (2003),655,Target,nation,3,66112,0.04537754114230397
+Nagy et al. (2003),656,Input,imaginary,0,66112,0.0
+Nagy et al. (2003),656,Target,imagine,5,66112,0.07562923523717328
+Nagy et al. (2003),657,Input,thinker,0,66112,0.0
+Nagy et al. (2003),657,Target,think,233,66112,3.5243223620522746
+Nagy et al. (2003),658,Input,laughter,1,66112,0.015125847047434656
+Nagy et al. (2003),658,Target,laugh,14,66112,0.21176185866408517
+Nagy et al. (2003),659,Input,global,0,66112,0.0
+Nagy et al. (2003),659,Target,globe,0,66112,0.0
+Nagy et al. (2003),660,Input,movement,2,66112,0.030251694094869313
+Nagy et al. (2003),660,Target,move,25,66112,0.3781461761858664
+Nagy et al. (2003),661,Input,tension,0,66112,0.0
+Nagy et al. (2003),661,Target,tense,1,66112,0.015125847047434656
+Nagy et al. (2003),662,Input,reality,0,66112,0.0
+Nagy et al. (2003),662,Target,real,38,66112,0.574782187802517
+Nagy et al. (2003),663,Input,sanity,0,66112,0.0
+Nagy et al. (2003),663,Target,sane,0,66112,0.0
+Nagy et al. (2003),664,Input,donation,0,66112,0.0
+Nagy et al. (2003),664,Target,donate,0,66112,0.0
+Nagy et al. (2003),665,Input,dinner,16,66112,0.2420135527589545
+Nagy et al. (2003),665,Target,dine,0,66112,0.0
+Nagy et al. (2003),666,Input,twelfth,0,66112,0.0
+Nagy et al. (2003),666,Target,twelve,2,66112,0.030251694094869313
+Nagy et al. (2003),667,Input,fortunate,0,66112,0.0
+Nagy et al. (2003),667,Target,fortune,3,66112,0.04537754114230397
+Nagy et al. (2003),668,Input,painful,2,66112,0.030251694094869313
+Nagy et al. (2003),668,Target,pain,7,66112,0.10588092933204259
+Nagy et al. (2003),669,Input,decision,3,66112,0.04537754114230397
+Nagy et al. (2003),669,Target,decide,2,66112,0.030251694094869313
+Nagy et al. (2003),670,Input,musical,1,66112,0.015125847047434656
+Nagy et al. (2003),670,Target,music,5,66112,0.07562923523717328
+Nagy et al. (2003),671,Input,action,5,66112,0.07562923523717328
+Nagy et al. (2003),671,Target,act,12,66112,0.18151016456921587
+Nagy et al. (2003),672,Input,fifty,12,66112,0.18151016456921587
+Nagy et al. (2003),672,Target,five,39,66112,0.5899080348499516
+Nagy et al. (2003),673,Input,permission,2,66112,0.030251694094869313
+Nagy et al. (2003),673,Target,permit,0,66112,0.0
+Nagy et al. (2003),674,Input,clarity,0,66112,0.0
+Nagy et al. (2003),674,Target,clear,4,66112,0.060503388189738626
+Nagy et al. (2003),675,Input,creative,1,66112,0.015125847047434656
+Nagy et al. (2003),675,Target,create,4,66112,0.060503388189738626
+Nagy et al. (2003),676,Input,loyalty,0,66112,0.0
+Nagy et al. (2003),676,Target,loyal,2,66112,0.030251694094869313
+Nagy et al. (2003),677,Input,ability,1,66112,0.015125847047434656
+Nagy et al. (2003),677,Target,able,16,66112,0.2420135527589545
+Nagy et al. (2003),678,Input,criminal,3,66112,0.04537754114230397
+Nagy et al. (2003),678,Target,crime,2,66112,0.030251694094869313
+Nagy et al. (2003),679,Input,reliable,4,66112,0.060503388189738626
+Nagy et al. (2003),679,Target,rely,1,66112,0.015125847047434656
+Nagy et al. (2003),680,Input,education,0,66112,0.0
+Nagy et al. (2003),680,Target,educate,0,66112,0.0
+Nagy et al. (2003),681,Input,election,1,66112,0.015125847047434656
+Nagy et al. (2003),681,Target,elect,0,66112,0.0
+Nagy et al. (2003),682,Input,deadly,2,66112,0.030251694094869313
+Nagy et al. (2003),682,Target,dead,38,66112,0.574782187802517
+James et al. (2021),683,Input,lemon,1,66112,0.015125847047434656
+James et al. (2021),683,Target,lemons,0,66112,0.0
+James et al. (2021),684,Input,ride,8,66112,0.12100677637947725
+James et al. (2021),684,Target,rides,0,66112,0.0
+James et al. (2021),685,Input,call,41,66112,0.620159728944821
+James et al. (2021),685,Target,calls,8,66112,0.12100677637947725
+James et al. (2021),686,Input,bend,1,66112,0.015125847047434656
+James et al. (2021),686,Target,bent,1,66112,0.015125847047434656
+James et al. (2021),687,Input,drop,7,66112,0.10588092933204259
+James et al. (2021),687,Target,dropped,6,66112,0.09075508228460794
+James et al. (2021),688,Input,elf,0,66112,0.0
+James et al. (2021),688,Target,elves,0,66112,0.0
+James et al. (2021),689,Input,beach,1,66112,0.015125847047434656
+James et al. (2021),689,Target,beaches,0,66112,0.0
+James et al. (2021),690,Input,nod,0,66112,0.0
+James et al. (2021),690,Target,nodded,0,66112,0.0
+James et al. (2021),691,Input,think,233,66112,3.5243223620522746
+James et al. (2021),691,Target,thought,51,66112,0.7714181994191674
+James et al. (2021),692,Input,tooth,1,66112,0.015125847047434656
+James et al. (2021),692,Target,teeth,2,66112,0.030251694094869313
+James et al. (2021),693,Input,lose,11,66112,0.1663843175217812
+James et al. (2021),693,Target,loses,1,66112,0.015125847047434656
+James et al. (2021),694,Input,cross,0,66112,0.0
+James et al. (2021),694,Target,crosses,0,66112,0.0
+James et al. (2021),695,Input,danger,4,66112,0.060503388189738626
+James et al. (2021),695,Target,dangerous,7,66112,0.10588092933204259
+James et al. (2021),696,Input,magic,1,66112,0.015125847047434656
+James et al. (2021),696,Target,magician,0,66112,0.0
+James et al. (2021),697,Input,electric,2,66112,0.030251694094869313
+James et al. (2021),697,Target,electricity,0,66112,0.0
+James et al. (2021),698,Input,please,67,66112,1.013431752178122
+James et al. (2021),698,Target,pleasing,0,66112,0.0
+James et al. (2021),699,Input,dark,6,66112,0.09075508228460794
+James et al. (2021),699,Target,darkness,0,66112,0.0
+James et al. (2021),700,Input,art,2,66112,0.030251694094869313
+James et al. (2021),700,Target,artist,2,66112,0.030251694094869313
+James et al. (2021),701,Input,ocean,1,66112,0.015125847047434656
+James et al. (2021),701,Target,oceanic,0,66112,0.0
+James et al. (2021),702,Input,act,12,66112,0.18151016456921587
+James et al. (2021),702,Target,activity,1,66112,0.015125847047434656
+James et al. (2021),703,Input,work,48,66112,0.7260406582768635
+James et al. (2021),703,Target,worker,23,66112,0.34789448209099705
+James et al. (2021),704,Input,wash,1,66112,0.015125847047434656
+James et al. (2021),704,Target,washable,0,66112,0.0
+Nagy et al. (2006),645,Input,climber,0,66112,0.0
+Nagy et al. (2006),645,Target,climb,4,66112,0.060503388189738626
+Nagy et al. (2006),646,Input,personal,5,66112,0.07562923523717328
+Nagy et al. (2006),646,Target,person,10,66112,0.15125847047434657
+Nagy et al. (2006),647,Input,sunny,0,66112,0.0
+Nagy et al. (2006),647,Target,sun,10,66112,0.15125847047434657
+Nagy et al. (2006),648,Input,flight,0,66112,0.0
+Nagy et al. (2006),648,Target,fly,16,66112,0.2420135527589545
+Nagy et al. (2006),649,Input,relative,0,66112,0.0
+Nagy et al. (2006),649,Target,relate,0,66112,0.0
+Nagy et al. (2006),650,Input,rainy,1,66112,0.015125847047434656
+Nagy et al. (2006),650,Target,rain,6,66112,0.09075508228460794
+Nagy et al. (2006),651,Input,depth,0,66112,0.0
+Nagy et al. (2006),651,Target,deep,3,66112,0.04537754114230397
+Nagy et al. (2006),652,Input,battle,5,66112,0.07562923523717328
+Nagy et al. (2006),652,Target,bat,6,66112,0.09075508228460794
+Nagy et al. (2006),653,Input,reasonable,3,66112,0.04537754114230397
+Nagy et al. (2006),653,Target,reason,15,66112,0.22688770571151984
+Nagy et al. (2006),654,Input,adorable,0,66112,0.0
+Nagy et al. (2006),654,Target,adore,0,66112,0.0
+Nagy et al. (2006),655,Input,national,6,66112,0.09075508228460794
+Nagy et al. (2006),655,Target,nation,3,66112,0.04537754114230397
+Nagy et al. (2006),656,Input,imaginary,0,66112,0.0
+Nagy et al. (2006),656,Target,imagine,5,66112,0.07562923523717328
+Nagy et al. (2006),657,Input,thinker,0,66112,0.0
+Nagy et al. (2006),657,Target,think,233,66112,3.5243223620522746
+Nagy et al. (2006),658,Input,laughter,1,66112,0.015125847047434656
+Nagy et al. (2006),658,Target,laugh,14,66112,0.21176185866408517
+Nagy et al. (2006),659,Input,global,0,66112,0.0
+Nagy et al. (2006),659,Target,globe,0,66112,0.0
+Nagy et al. (2006),660,Input,movement,2,66112,0.030251694094869313
+Nagy et al. (2006),660,Target,move,25,66112,0.3781461761858664
+Nagy et al. (2006),661,Input,tension,0,66112,0.0
+Nagy et al. (2006),661,Target,tense,1,66112,0.015125847047434656
+Nagy et al. (2006),662,Input,reality,0,66112,0.0
+Nagy et al. (2006),662,Target,real,38,66112,0.574782187802517
+Nagy et al. (2006),663,Input,sanity,0,66112,0.0
+Nagy et al. (2006),663,Target,sane,0,66112,0.0
+Nagy et al. (2006),664,Input,donation,0,66112,0.0
+Nagy et al. (2006),664,Target,donate,0,66112,0.0
+Nagy et al. (2006),665,Input,dinner,16,66112,0.2420135527589545
+Nagy et al. (2006),665,Target,dine,0,66112,0.0
+Nagy et al. (2006),666,Input,twelfth,0,66112,0.0
+Nagy et al. (2006),666,Target,twelve,2,66112,0.030251694094869313
+Nagy et al. (2006),667,Input,fortunate,0,66112,0.0
+Nagy et al. (2006),667,Target,fortune,3,66112,0.04537754114230397
+Nagy et al. (2006),668,Input,painful,2,66112,0.030251694094869313
+Nagy et al. (2006),668,Target,pain,7,66112,0.10588092933204259
+Nagy et al. (2006),669,Input,decision,3,66112,0.04537754114230397
+Nagy et al. (2006),669,Target,decide,2,66112,0.030251694094869313
+Nagy et al. (2006),670,Input,musical,1,66112,0.015125847047434656
+Nagy et al. (2006),670,Target,music,5,66112,0.07562923523717328
+Nagy et al. (2006),671,Input,action,5,66112,0.07562923523717328
+Nagy et al. (2006),671,Target,act,12,66112,0.18151016456921587
+Nagy et al. (2006),672,Input,fifty,12,66112,0.18151016456921587
+Nagy et al. (2006),672,Target,five,39,66112,0.5899080348499516
+Nagy et al. (2006),673,Input,permission,2,66112,0.030251694094869313
+Nagy et al. (2006),673,Target,permit,0,66112,0.0
+Nagy et al. (2006),674,Input,clarity,0,66112,0.0
+Nagy et al. (2006),674,Target,clear,4,66112,0.060503388189738626
+Nagy et al. (2006),675,Input,creative,1,66112,0.015125847047434656
+Nagy et al. (2006),675,Target,create,4,66112,0.060503388189738626
+Nagy et al. (2006),676,Input,loyalty,0,66112,0.0
+Nagy et al. (2006),676,Target,loyal,2,66112,0.030251694094869313
+Nagy et al. (2006),677,Input,ability,1,66112,0.015125847047434656
+Nagy et al. (2006),677,Target,able,16,66112,0.2420135527589545
+Nagy et al. (2006),678,Input,criminal,3,66112,0.04537754114230397
+Nagy et al. (2006),678,Target,crime,2,66112,0.030251694094869313
+Nagy et al. (2006),679,Input,reliable,4,66112,0.060503388189738626
+Nagy et al. (2006),679,Target,rely,1,66112,0.015125847047434656
+Nagy et al. (2006),680,Input,education,0,66112,0.0
+Nagy et al. (2006),680,Target,educate,0,66112,0.0
+Nagy et al. (2006),681,Input,election,1,66112,0.015125847047434656
+Nagy et al. (2006),681,Target,elect,0,66112,0.0
+Nagy et al. (2006),682,Input,deadly,2,66112,0.030251694094869313
+Nagy et al. (2006),682,Target,dead,38,66112,0.574782187802517

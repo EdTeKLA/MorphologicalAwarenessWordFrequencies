@@ -1,0 +1,249 @@
+Reference,Item number,Type,Word,Books Count,Books Total Count,Books Frequency per 1000 words
+Roth (2007),1,Target,lover,0,199877,0.0
+Roth (2007),1,Foil,lovely,28,199877,0.14008615298408522
+Roth (2007),2,Target,announcer,2,199877,0.010006153784577516
+Roth (2007),2,Foil,announcement,1,199877,0.005003076892288758
+Roth (2007),3,Target,action,5,199877,0.025015384461443788
+Roth (2007),3,Foil,active,1,199877,0.005003076892288758
+Roth (2007),4,Target,enjoyable,0,199877,0.0
+Roth (2007),4,Foil,enjoyment,0,199877,0.0
+Roth (2007),5,Target,possession,0,199877,0.0
+Roth (2007),5,Foil,possessive,0,199877,0.0
+Roth (2007),6,Target,thickness,0,199877,0.0
+Roth (2007),6,Foil,thickly,0,199877,0.0
+Roth (2007),7,Target,possibility,0,199877,0.0
+Roth (2007),7,Foil,possibly,6,199877,0.030018461353732546
+Roth (2007),8,Target,attraction,9,199877,0.045027692030598816
+Roth (2007),8,Foil,attractive,0,199877,0.0
+Roth (2007),9,Target,player,4,199877,0.020012307569155032
+Roth (2007),9,Foil,playful,3,199877,0.015009230676866273
+Roth (2007),10,Target,curiosity,0,199877,0.0
+Roth (2007),10,Foil,curiously,1,199877,0.005003076892288758
+Roth (2007),11,Target,greatly,0,199877,0.0
+Roth (2007),11,Foil,greatness,0,199877,0.0
+Roth (2007),12,Target,helper,1,199877,0.005003076892288758
+Roth (2007),12,Foil,helpless,0,199877,0.0
+Roth (2007),13,Target,strength,1,199877,0.005003076892288758
+Roth (2007),13,Foil,strongly,0,199877,0.0
+Roth (2007),14,Target,movable,0,199877,0.0
+Roth (2007),14,Foil,movement,2,199877,0.010006153784577516
+Roth (2007),15,Target,eighth,1,199877,0.005003076892288758
+Roth (2007),15,Foil,eighty,2,199877,0.010006153784577516
+Roth (2007),16,Target,shyly,0,199877,0.0
+Roth (2007),16,Foil,shyness,0,199877,0.0
+Roth (2007),17,Target,truth,4,199877,0.020012307569155032
+Roth (2007),17,Foil,truly,3,199877,0.015009230676866273
+Roth (2007),18,Target,width,0,199877,0.0
+Roth (2007),18,Foil,widely,0,199877,0.0
+Roth (2007),19,Target,creation,0,199877,0.0
+Roth (2007),19,Foil,creature,21,199877,0.10506461473806392
+Roth (2007),20,Target,desperation,0,199877,0.0
+Roth (2007),20,Foil,desperately,0,199877,0.0
+Singson et al. (2000),21,Target,operation,1,199877,0.005003076892288758
+Singson et al. (2000),21,Foil,operational,0,199877,0.0
+Singson et al. (2000),21,Foil,operative,0,199877,0.0
+Singson et al. (2000),21,Foil,operationalize,0,199877,0.0
+Singson et al. (2000),22,Target,gratify,0,199877,0.0
+Singson et al. (2000),22,Foil,grateful,2,199877,0.010006153784577516
+Singson et al. (2000),22,Foil,gratuity,0,199877,0.0
+Singson et al. (2000),22,Foil,demonstrate,1,199877,0.005003076892288758
+Singson et al. (2000),23,Target,demonstrate,1,199877,0.005003076892288758
+Singson et al. (2000),23,Foil,demonstration,0,199877,0.0
+Singson et al. (2000),23,Foil,demonstrative,0,199877,0.0
+Singson et al. (2000),23,Foil,demonstrable,0,199877,0.0
+Singson et al. (2000),24,Target,personality,1,199877,0.005003076892288758
+Singson et al. (2000),24,Foil,personify,0,199877,0.0
+Singson et al. (2000),24,Foil,personalize,0,199877,0.0
+Singson et al. (2000),24,Foil,personal,2,199877,0.010006153784577516
+Singson et al. (2000),25,Target,productive,0,199877,0.0
+Singson et al. (2000),25,Foil,productivity,0,199877,0.0
+Singson et al. (2000),25,Foil,production,0,199877,0.0
+Singson et al. (2000),25,Foil,produce,0,199877,0.0
+Singson et al. (2000),26,Target,fertilize,0,199877,0.0
+Singson et al. (2000),26,Foil,fertilization,0,199877,0.0
+Singson et al. (2000),26,Foil,fertility,0,199877,0.0
+Singson et al. (2000),26,Foil,fertilizer,0,199877,0.0
+Singson et al. (2000),27,Target,industrious,0,199877,0.0
+Singson et al. (2000),27,Foil,industrialization,0,199877,0.0
+Singson et al. (2000),27,Foil,industry,0,199877,0.0
+Singson et al. (2000),27,Foil,industrialize,0,199877,0.0
+Singson et al. (2000),28,Target,identical,0,199877,0.0
+Singson et al. (2000),28,Foil,identify,0,199877,0.0
+Singson et al. (2000),28,Foil,identification,0,199877,0.0
+Singson et al. (2000),28,Foil,identity,1,199877,0.005003076892288758
+Singson et al. (2000),29,Target,activist,0,199877,0.0
+Singson et al. (2000),29,Foil,active,1,199877,0.005003076892288758
+Singson et al. (2000),29,Foil,activate,0,199877,0.0
+Singson et al. (2000),29,Foil,activize,0,199877,0.0
+Singson et al. (2000),30,Target,brightness,0,199877,0.0
+Singson et al. (2000),30,Foil,bright,77,199877,0.38523692070623433
+Singson et al. (2000),30,Foil,brighten,2,199877,0.010006153784577516
+Singson et al. (2000),30,Foil,brightly,5,199877,0.025015384461443788
+Singson et al. (2000),31,Target,population,1,199877,0.005003076892288758
+Singson et al. (2000),31,Foil,popular,2,199877,0.010006153784577516
+Singson et al. (2000),31,Foil,populate,0,199877,0.0
+Singson et al. (2000),31,Foil,popularize,0,199877,0.0
+Singson et al. (2000),32,Target,electricity,1,199877,0.005003076892288758
+Singson et al. (2000),32,Foil,electrify,0,199877,0.0
+Singson et al. (2000),32,Foil,electrical,0,199877,0.0
+Singson et al. (2000),32,Foil,electric,6,199877,0.030018461353732546
+Singson et al. (2000),33,Target,regulate,0,199877,0.0
+Singson et al. (2000),33,Foil,regulation,0,199877,0.0
+Singson et al. (2000),33,Foil,regularity,0,199877,0.0
+Singson et al. (2000),33,Foil,regular,1,199877,0.005003076892288758
+Singson et al. (2000),34,Target,colonize,0,199877,0.0
+Singson et al. (2000),34,Foil,colonist,0,199877,0.0
+Singson et al. (2000),34,Foil,colonization,0,199877,0.0
+Singson et al. (2000),34,Foil,colonial,0,199877,0.0
+Singson et al. (2000),35,Target,glorious,2,199877,0.010006153784577516
+Singson et al. (2000),35,Foil,gloriousness,0,199877,0.0
+Singson et al. (2000),35,Foil,glorify,0,199877,0.0
+Singson et al. (2000),35,Foil,glorification,0,199877,0.0
+Singson et al. (2000),36,Target,deadness,0,199877,0.0
+Singson et al. (2000),36,Foil,dead,6,199877,0.030018461353732546
+Singson et al. (2000),36,Foil,deadly,0,199877,0.0
+Singson et al. (2000),36,Foil,deaden,0,199877,0.0
+Singson et al. (2000),37,Target,actve,0,199877,0.0
+Singson et al. (2000),37,Foil,activation,0,199877,0.0
+Singson et al. (2000),37,Foil,activity,1,199877,0.005003076892288758
+Singson et al. (2000),37,Foil,activate,0,199877,0.0
+Singson et al. (2000),38,Target,critical,0,199877,0.0
+Singson et al. (2000),38,Foil,critically,0,199877,0.0
+Singson et al. (2000),38,Foil,criticism,0,199877,0.0
+Singson et al. (2000),38,Foil,criticize,0,199877,0.0
+Singson et al. (2000),39,Target,conversationalist,0,199877,0.0
+Singson et al. (2000),39,Foil,conversational,0,199877,0.0
+Singson et al. (2000),39,Foil,converse,0,199877,0.0
+Singson et al. (2000),39,Foil,conversation,2,199877,0.010006153784577516
+Singson et al. (2000),40,Target,diversify,0,199877,0.0
+Singson et al. (2000),40,Foil,diversionary,0,199877,0.0
+Singson et al. (2000),40,Foil,diversity,0,199877,0.0
+Singson et al. (2000),40,Foil,diversion,0,199877,0.0
+Nagy et al. (2003),41,Target,directions,1,199877,0.005003076892288758
+Nagy et al. (2003),41,Foil,directs,1,199877,0.005003076892288758
+Nagy et al. (2003),41,Foil,directing,1,199877,0.005003076892288758
+Nagy et al. (2003),41,Foil,directed,1,199877,0.005003076892288758
+Nagy et al. (2003),42,Target,loveliest,0,199877,0.0
+Nagy et al. (2003),42,Foil,loving,7,199877,0.035021538246021305
+Nagy et al. (2003),42,Foil,lovingly,0,199877,0.0
+Nagy et al. (2003),42,Foil,loveliness,1,199877,0.005003076892288758
+Nagy et al. (2003),43,Target,announcement,1,199877,0.005003076892288758
+Nagy et al. (2003),43,Foil,announce,0,199877,0.0
+Nagy et al. (2003),43,Foil,announcing,0,199877,0.0
+Nagy et al. (2003),43,Foil,announced,12,199877,0.06003692270746509
+Nagy et al. (2003),44,Target,quickness,0,199877,0.0
+Nagy et al. (2003),44,Foil,quicker,4,199877,0.020012307569155032
+Nagy et al. (2003),44,Foil,quickly,34,199877,0.17010461433781776
+Nagy et al. (2003),44,Foil,quickest,0,199877,0.0
+Nagy et al. (2003),45,Target,creation,0,199877,0.0
+Nagy et al. (2003),45,Foil,creative,0,199877,0.0
+Nagy et al. (2003),45,Foil,creator,0,199877,0.0
+Nagy et al. (2003),45,Foil,creates,0,199877,0.0
+James et al. (2021),96,Target,pick,28,199877,0.14008615298408522
+James et al. (2021),96,Foil,picks,9,199877,0.045027692030598816
+James et al. (2021),96,Foil,pickes,0,199877,0.0
+James et al. (2021),96,Foil,picker,5,199877,0.025015384461443788
+James et al. (2021),97,Target,carry,10,199877,0.050030768922887575
+James et al. (2021),97,Foil,carries,4,199877,0.020012307569155032
+James et al. (2021),97,Foil,carried,22,199877,0.11006769163035267
+James et al. (2021),97,Foil,carrying,13,199877,0.06503999959975386
+James et al. (2021),98,Target,laugh,24,199877,0.12007384541493019
+James et al. (2021),98,Foil,laughs,3,199877,0.015009230676866273
+James et al. (2021),98,Foil,laughing,16,199877,0.08004923027662013
+James et al. (2021),98,Foil,laugher,0,199877,0.0
+James et al. (2021),99,Target,plant,10,199877,0.050030768922887575
+James et al. (2021),99,Foil,plants,10,199877,0.050030768922887575
+James et al. (2021),99,Foil,planted,1,199877,0.005003076892288758
+James et al. (2021),99,Foil,plantes,0,199877,0.0
+James et al. (2021),100,Target,play,213,199877,1.0656553780575053
+James et al. (2021),100,Foil,plays,10,199877,0.050030768922887575
+James et al. (2021),100,Foil,playing,42,199877,0.21012922947612783
+James et al. (2021),100,Foil,played,26,199877,0.13007999919950772
+James et al. (2021),101,Target,goose,24,199877,0.12007384541493019
+James et al. (2021),101,Foil,geese,6,199877,0.030018461353732546
+James et al. (2021),101,Foil,goosed,0,199877,0.0
+James et al. (2021),101,Foil,geeses,0,199877,0.0
+James et al. (2021),102,Target,fight,16,199877,0.08004923027662013
+James et al. (2021),102,Foil,fought,1,199877,0.005003076892288758
+James et al. (2021),102,Foil,fighted,0,199877,0.0
+James et al. (2021),102,Foil,fighting,3,199877,0.015009230676866273
+James et al. (2021),103,Target,bench,7,199877,0.035021538246021305
+James et al. (2021),103,Foil,benches,0,199877,0.0
+James et al. (2021),103,Foil,benchs,0,199877,0.0
+James et al. (2021),103,Foil,benched,0,199877,0.0
+James et al. (2021),104,Target,choose,13,199877,0.06503999959975386
+James et al. (2021),104,Foil,chooses,0,199877,0.0
+James et al. (2021),104,Foil,choose,13,199877,0.06503999959975386
+James et al. (2021),104,Foil,chooser,0,199877,0.0
+James et al. (2021),105,Target,send,18,199877,0.09005538406119763
+James et al. (2021),105,Foil,sent,46,199877,0.23014153704528284
+James et al. (2021),105,Foil,sends,1,199877,0.005003076892288758
+James et al. (2021),105,Foil,sended,0,199877,0.0
+James et al. (2021),106,Target,shelf,14,199877,0.07004307649204261
+James et al. (2021),106,Foil,shelves,3,199877,0.015009230676866273
+James et al. (2021),106,Foil,shelfs,0,199877,0.0
+James et al. (2021),106,Foil,shelver,0,199877,0.0
+James et al. (2021),107,Target,teach,16,199877,0.08004923027662013
+James et al. (2021),107,Foil,teaches,3,199877,0.015009230676866273
+James et al. (2021),107,Foil,teached,0,199877,0.0
+James et al. (2021),107,Foil,teacher,31,199877,0.1550953836609515
+James et al. (2021),122,Target,still,149,199877,0.745458456951025
+James et al. (2021),122,Foil,stillness,2,199877,0.010006153784577516
+James et al. (2021),122,Foil,sillist,0,199877,0.0
+James et al. (2021),122,Foil,silled,0,199877,0.0
+James et al. (2021),123,Target,music,17,199877,0.08505230716890888
+James et al. (2021),123,Foil,musician,0,199877,0.0
+James et al. (2021),123,Foil,musics,0,199877,0.0
+James et al. (2021),123,Foil,musicker,0,199877,0.0
+James et al. (2021),124,Target,celebrate,4,199877,0.020012307569155032
+James et al. (2021),124,Foil,celebration,3,199877,0.015009230676866273
+James et al. (2021),124,Foil,celebratism,0,199877,0.0
+James et al. (2021),124,Foil,celebrates,0,199877,0.0
+James et al. (2021),125,Target,thunder,9,199877,0.045027692030598816
+James et al. (2021),125,Foil,thunderous,1,199877,0.005003076892288758
+James et al. (2021),125,Foil,thunderive,0,199877,0.0
+James et al. (2021),125,Foil,thundered,2,199877,0.010006153784577516
+James et al. (2021),126,Target,include,0,199877,0.0
+James et al. (2021),126,Foil,inclusive,0,199877,0.0
+James et al. (2021),126,Foil,includish,0,199877,0.0
+James et al. (2021),126,Foil,includes,0,199877,0.0
+James et al. (2021),127,Target,treat,21,199877,0.10506461473806392
+James et al. (2021),127,Foil,treatment,0,199877,0.0
+James et al. (2021),127,Foil,treatage,0,199877,0.0
+James et al. (2021),127,Foil,treated,0,199877,0.0
+James et al. (2021),128,Target,walk,61,199877,0.3051876904296142
+James et al. (2021),128,Foil,walkable,0,199877,0.0
+James et al. (2021),128,Foil,walkous,0,199877,0.0
+James et al. (2021),128,Foil,walks,8,199877,0.040024615138310064
+James et al. (2021),129,Target,plastic,6,199877,0.030018461353732546
+James et al. (2021),129,Foil,plasticity,0,199877,0.0
+James et al. (2021),129,Foil,plasticker,0,199877,0.0
+James et al. (2021),129,Foil,plasticked,0,199877,0.0
+James et al. (2021),130,Target,sign,22,199877,0.11006769163035267
+James et al. (2021),130,Foil,signage,0,199877,0.0
+James et al. (2021),130,Foil,signity,0,199877,0.0
+James et al. (2021),130,Foil,signed,0,199877,0.0
+James et al. (2021),131,Target,angel,6,199877,0.030018461353732546
+James et al. (2021),131,Foil,angelic,1,199877,0.005003076892288758
+James et al. (2021),131,Foil,angelant,0,199877,0.0
+James et al. (2021),131,Foil,angels,8,199877,0.040024615138310064
+Nagy et al. (2006),41,Target,directions,1,199877,0.005003076892288758
+Nagy et al. (2006),41,Foil,directs,1,199877,0.005003076892288758
+Nagy et al. (2006),41,Foil,directing,1,199877,0.005003076892288758
+Nagy et al. (2006),41,Foil,directed,1,199877,0.005003076892288758
+Nagy et al. (2006),42,Target,loveliest,0,199877,0.0
+Nagy et al. (2006),42,Foil,loving,7,199877,0.035021538246021305
+Nagy et al. (2006),42,Foil,lovingly,0,199877,0.0
+Nagy et al. (2006),42,Foil,loveliness,1,199877,0.005003076892288758
+Nagy et al. (2006),43,Target,announcement,1,199877,0.005003076892288758
+Nagy et al. (2006),43,Foil,announce,0,199877,0.0
+Nagy et al. (2006),43,Foil,announcing,0,199877,0.0
+Nagy et al. (2006),43,Foil,announced,12,199877,0.06003692270746509
+Nagy et al. (2006),44,Target,quickness,0,199877,0.0
+Nagy et al. (2006),44,Foil,quicker,4,199877,0.020012307569155032
+Nagy et al. (2006),44,Foil,quickly,34,199877,0.17010461433781776
+Nagy et al. (2006),44,Foil,quickest,0,199877,0.0
+Nagy et al. (2006),45,Target,creation,0,199877,0.0
+Nagy et al. (2006),45,Foil,creative,0,199877,0.0
+Nagy et al. (2006),45,Foil,creator,0,199877,0.0
+Nagy et al. (2006),45,Foil,creates,0,199877,0.0
