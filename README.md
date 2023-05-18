@@ -12,8 +12,8 @@ The word frequencies for each of the corpora can be found in [output](output).
 
 
 ## Running the Code
-The packages in [requirements.txt](requirements.txt) are needed to run the code. They can be installed using 
-`pip install -r requirements.txt`
+The packages in [requirements.txt](requirements.txt) are needed to run the code. They can be installed by running 
+`pip install -r requirements.txt` from this directory.
 
 Each python script should be run from the directory it is located in.
 
