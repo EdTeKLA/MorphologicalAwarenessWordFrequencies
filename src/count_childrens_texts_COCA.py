@@ -1,5 +1,5 @@
 import pandas as pd
-from src.count_words import count_all_words, count_test_words, get_words
+from count_words import count_all_words, count_test_words, get_words
 
 
 def main():

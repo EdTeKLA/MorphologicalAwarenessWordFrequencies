@@ -1,7 +1,7 @@
 from docx import Document
 import pandas as pd
 from pathlib import Path
-from src.count_words import count_all_words, count_test_words, get_words
+from count_words import count_all_words, count_test_words, get_words
 
 
 def get_data_from_files(data_path: Path):
@@ -21,7 +21,7 @@ def get_data_from_files(data_path: Path):
 
 
 def main():
-    data_path = Path("../../data/childrens_books")
+    data_path = Path("../data/childrens_books")
     books = get_data_from_files(data_path)
     total_word_count = count_all_words(books, 'movies')
 
