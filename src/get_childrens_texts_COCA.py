@@ -47,15 +47,15 @@ def get_data(genres: dict, sources: pd.DataFrame) -> pd.DataFrame:
 
 
 def main():
-    genres = {'FIC:Juvenile': [117, Path("../../data/COCA/data/coca-text/text_fic_jjw")],
-              'MAG:Children': [132, Path("../../data/COCA/data/coca-text/text_mag_jgr")],
-              'Movies:Family': [192, Path("../../data/COCA/data/coca-text/text_tvm_nwh")]}
+    genres = {'FIC:Juvenile': [117, Path("../data/COCA/data/coca-text/text_fic_jjw")],
+              'MAG:Children': [132, Path("../data/COCA/data/coca-text/text_mag_jgr")],
+              'Movies:Family': [192, Path("../data/COCA/data/coca-text/text_tvm_nwh")]}
 
-    sources_path = Path("../../data/COCA/data/sources.txt")
+    sources_path = Path("../data/COCA/data/sources.txt")
     sources = get_sources(sources_path)
 
     texts = get_data(genres, sources)
-    texts.to_csv(Path(f"../../data/COCA/childrens_texts_COCA.csv"))
+    texts.to_csv(Path(f"../data/COCA/childrens_texts_COCA.csv"))
 
 
 if __name__ == "__main__":

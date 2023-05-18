@@ -33,7 +33,7 @@ def main():
         words_df["Books Total Count"] = total_word_count
         words_df["Books Frequency per 1000 words"] = words_df["Books Count"].div(words_df["Books Total Count"]).mul(1000)
 
-        output_path = f"../../output/childrens_books/{'mc' if mc else 'non_mc'}_childrens_books_counts.csv"
+        output_path = f"../output/childrens_books/{'mc' if mc else 'non_mc'}_childrens_books_counts.csv"
         words_df.to_csv(output_path, index=False)
 
 

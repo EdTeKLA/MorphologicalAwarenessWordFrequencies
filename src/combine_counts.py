@@ -3,10 +3,10 @@ import pandas as pd
 
 def main():
     for mc in [True, False]:
-        data_paths = [f"../../output/childrens_books/{'mc' if mc else 'non_mc'}_childrens_books_counts.csv",
-                      f"../../output/COCA/{'mc' if mc else 'non_mc'}_COCA_counts.csv",
-                      f"../../output/cornell_movies/{'mc' if mc else 'non_mc'}_cornell_family_movies_counts.csv",
-                      f"../../output/CHILDES/{'mc' if mc else 'non_mc'}_CHILDES_counts.csv"
+        data_paths = [f"../output/childrens_books/{'mc' if mc else 'non_mc'}_childrens_books_counts.csv",
+                      f"../output/COCA/{'mc' if mc else 'non_mc'}_COCA_counts.csv",
+                      f"../output/cornell_movies/{'mc' if mc else 'non_mc'}_cornell_family_movies_counts.csv",
+                      f"../output/CHILDES/{'mc' if mc else 'non_mc'}_CHILDES_counts.csv"
                       ]
 
         df = pd.read_csv(data_paths[0])
@@ -20,7 +20,7 @@ def main():
                              ]
         df["Average Frequency per 1000 Words"] = df.loc[:, frequency_columns].mean(axis=1)
 
-        output_path = f"../../output/all/{'mc' if mc else 'non_mc'}_counts.csv"
+        output_path = f"../output/all/{'mc' if mc else 'non_mc'}_counts.csv"
         df.to_csv(output_path, index=False)
 
 

@@ -9,7 +9,7 @@ def get_words(mc: bool):
     :param mc: specifies whether to get the multiple choice test words or non-multiple choice assessment words
     :return: dict and pandas dataframe with columns 'Reference', 'Item number', 'Type', and 'Word'
     """
-    data_path = f"../../data/tests/{'mc' if mc else 'non_mc'}_test_words.csv"
+    data_path = f"../data/tests/{'mc' if mc else 'non_mc'}_test_words.csv"
 
     words_df = pd.read_csv(data_path)
     words_dict = {word: 0 for word in set(words_df["Word"])}

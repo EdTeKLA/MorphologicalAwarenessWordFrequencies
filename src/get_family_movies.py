@@ -60,8 +60,8 @@ def get_movie_lines(meta_data, movie_lines):
 
 
 def main():
-    meta_data_path = Path("../../data/cornell_movies/cornell movie-dialogs corpus/movie_titles_metadata.txt")
-    movie_lines_path = Path("../../data/cornell_movies/cornell movie-dialogs corpus/movie_lines.txt")
+    meta_data_path = Path("../data/cornell_movies/cornell movie-dialogs corpus/movie_titles_metadata.txt")
+    movie_lines_path = Path("../data/cornell_movies/cornell movie-dialogs corpus/movie_lines.txt")
 
     meta_data = pd.read_csv(meta_data_path, sep=' \+\+\+\$\+\+\+ ', engine='python', encoding='unicode_escape',
                             names=['movieID', 'movie_title', 'movie_year', 'IMDB_rating', 'no_IMBD_votes', 'genres'])
@@ -71,8 +71,8 @@ def main():
     family_movies_meta_data = find_movies('family', meta_data)
     family_movies_lines = get_movie_lines(family_movies_meta_data, movie_lines)
 
-    family_movies_meta_data.to_csv(Path("../../data/cornell_movies/cornell_family_movies_meta_data.csv"), index=False)
-    family_movies_lines.to_csv(Path("../../data/cornell_movies/cornell_family_movies_lines.csv"), index=False)
+    family_movies_meta_data.to_csv(Path("../data/cornell_movies/cornell_family_movies_meta_data.csv"), index=False)
+    family_movies_lines.to_csv(Path("../data/cornell_movies/cornell_family_movies_lines.csv"), index=False)
 
 
 if __name__ == "__main__":

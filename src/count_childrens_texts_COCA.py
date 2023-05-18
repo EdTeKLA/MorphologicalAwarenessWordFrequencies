@@ -4,7 +4,7 @@ from count_words import count_all_words, count_test_words, get_words
 
 def main():
     # path to the csv output of get_childrens_texts_COCA.py
-    texts = pd.read_csv(f"../../data/COCA/childrens_texts_COCA.csv")
+    texts = pd.read_csv(f"../data/COCA/childrens_texts_COCA.csv")
 
     total_word_count = count_all_words(texts, 'COCA')
     for subgenre in ['FIC:Juvenile', 'MAG:Children', 'Movies:Family']:
@@ -18,7 +18,7 @@ def main():
         words_df["COCA Total Count"] = total_word_count
         words_df["COCA Frequency per 1000 words"] = words_df["COCA Count"].div(words_df["COCA Total Count"]).mul(1000)
 
-        output_path = f"../../output/COCA/{'mc' if mc else 'non_mc'}_COCA_counts.csv"
+        output_path = f"../output/COCA/{'mc' if mc else 'non_mc'}_COCA_counts.csv"
         words_df.to_csv(output_path, index=False)
 
 
