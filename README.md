@@ -21,7 +21,7 @@ The corpora are needed to run the code for counting the words. Follow the instru
 ### Children's Picture Books
 From this directory, run
 ```
-cd src/childrens_books
+cd src
 python3 get_and_count_childrens_books.py
 ```
   
