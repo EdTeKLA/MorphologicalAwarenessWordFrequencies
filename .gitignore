@@ -1,6 +1,8 @@
 .DS_Store
 .idea/
-
+data/childrens_books/
+data/COCA/
+data/cornell_movies/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
