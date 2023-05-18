@@ -6,6 +6,8 @@ We used books that were indentified in the Infant Bookreading Database (Hudson K
 ### COCA
 
 >Davies, M. (2008-). The Corpus of Contemporary American English (COCA). Available online at https://www.english-corpora.org/coca/ 
+
+Note that some tokens are randomly replaced with the @ symbol upon distribution of the corpus. This may cause counts to vary. 
 ### Cornell Movie-Dialogs Corpus
 The [Cornell Movie-Dialogs Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) was introduced by Danescu-Niculescu-Mizil & Lee (2011). It can be downloaded using [ConvoKit](https://convokit.cornell.edu/documentation/movie.html). Alternatively, it can be downloaded as text files from [here](https://www.kaggle.com/datasets/rajathmc/cornell-moviedialog-corpus), which is what we used. 
 >Danescu-Niculescu-Mizil, C. & Lee, L. (2011). Chameleons in imagined conversations:  A new approach to understanding coordination of linguistic style in dialogs in Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics, ACL 2011.
