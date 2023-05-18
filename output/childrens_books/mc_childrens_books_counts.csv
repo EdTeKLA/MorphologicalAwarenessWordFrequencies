@@ -103,7 +103,7 @@ Singson et al. (2000),36,Target,deadness,0,199877,0.0
 Singson et al. (2000),36,Foil,dead,6,199877,0.030018461353732546
 Singson et al. (2000),36,Foil,deadly,0,199877,0.0
 Singson et al. (2000),36,Foil,deaden,0,199877,0.0
-Singson et al. (2000),37,Target,actve,0,199877,0.0
+Singson et al. (2000),37,Target,active,1,199877,0.005003076892288758
 Singson et al. (2000),37,Foil,activation,0,199877,0.0
 Singson et al. (2000),37,Foil,activity,1,199877,0.005003076892288758
 Singson et al. (2000),37,Foil,activate,0,199877,0.0
@@ -189,8 +189,8 @@ James et al. (2021),107,Foil,teached,0,199877,0.0
 James et al. (2021),107,Foil,teacher,31,199877,0.1550953836609515
 James et al. (2021),122,Target,still,149,199877,0.745458456951025
 James et al. (2021),122,Foil,stillness,2,199877,0.010006153784577516
-James et al. (2021),122,Foil,sillist,0,199877,0.0
-James et al. (2021),122,Foil,silled,0,199877,0.0
+James et al. (2021),122,Foil,stillist,0,199877,0.0
+James et al. (2021),122,Foil,stilled,0,199877,0.0
 James et al. (2021),123,Target,music,17,199877,0.08505230716890888
 James et al. (2021),123,Foil,musician,0,199877,0.0
 James et al. (2021),123,Foil,musics,0,199877,0.0
