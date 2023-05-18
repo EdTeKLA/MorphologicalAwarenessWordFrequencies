@@ -28,10 +28,10 @@ def get_data(genres: dict, sources: pd.DataFrame) -> pd.DataFrame:
         subgenre_code = info[0]
         data_path = info[1]
         text_files = data_path.glob('*.txt')
-        for file in text_files:
+        for file in tqdm(text_files):
             with open(file) as f:
                 lines = f.readlines()
-            for line in tqdm(lines):
+            for line in lines:
                 textID = re.findall(textID_pattern, line)
                 if textID:
                     textID = int(textID[0])
