@@ -45,9 +45,9 @@ sb.violinplot(data=counts_df,
               palette=colors)
 
 plt.xticks(rotation=0, fontsize=12)
-plt.yticks((0, 0.05, 0.1, 0.15), fontsize=12)
+plt.yticks((0, 0.02, 0.04, 0.06, 0.08, 0.10), fontsize=12)
 
-ax.set_ylim([0, max(counts_df[freq_column]) * 1.5])
+ax.set_ylim([0, 0.1])
 
 ax.legend(handles=ax.legend_.legendHandles, labels=hue_order)
 plt.legend(frameon=False, fontsize=12)
