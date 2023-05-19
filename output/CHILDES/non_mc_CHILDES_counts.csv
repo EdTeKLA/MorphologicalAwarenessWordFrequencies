@@ -505,8 +505,8 @@ Ku & Anderson (2003),333,Input,baker,27,3826525,0.007056010349
 Ku & Anderson (2003),333,Target,bakery,19,3826525,0.004965340616
 Ku & Anderson (2003),334,Input,dirt,265,3826525,0.06925343491
 Ku & Anderson (2003),334,Target,dirty,910,3826525,0.2378136821
-Ku & Anderson (2003),335,Input,after,0,3826525,0
-Ku & Anderson (2003),335,Target,afternoon,0,3826525,0
+Ku & Anderson (2003),335,Input,after,1811,3826525,0.4732753608
+Ku & Anderson (2003),335,Target,afternoon,248,3826525,0.06481076172
 Ku & Anderson (2003),336,Input,man,8,3826525,0.002090669733
 Ku & Anderson (2003),336,Target,many,8,3826525,0.002090669733
 Ku & Anderson (2003),337,Input,person,469,3826525,0.1225655131
